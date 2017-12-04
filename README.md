@@ -51,11 +51,15 @@ Software is a long-lived and complex thing. This course is about understanding s
 
 (the official course syllabus is [distributed via HEAT](https://heat.csc.uvic.ca/coview/outline/201))
 
+## Required Text:
+SEI Software Architecture in Practice, Len Bass, Paul Clements, Rick Kazman. 3rd Edition. 2013.
+
 ## Past versions:
 
 * past deliverables from the TU Delft IN4315 are available at https://delftswa.github.io and https://www.gitbook.com/@delftswa
 
 ## Instructors
+
 * [Neil Ernst](http://neilernst.net), instructor. Office ECS 560, office hours TBD.
 * Omar Elazhary, teaching assistant
 
@@ -78,7 +82,7 @@ The class will use [Github](https://github.com/SENG480-18) and [Slack](https://s
 University and department policies on professional conduct and integrity are applicable. Feel free to see me in person, or via UVic email, for personal questions.
 
 ## Overview
-The primary deliverable is a group project worth 50% of the mark. You and your team of 5 will select a software project (e.g., OSS on Github), and document important views on the software. The end result will be a set of documentation about the software system and a deep understanding of how it is constructed.
+The primary deliverable is a group project worth 75% of the mark. You and your team of 4-5 will select a software project (e.g., OSS on Github), and document important views on the software. The end result will be a set of documentation about the software system and a deep understanding of how it is constructed.
 
 ## Assignment
 One individual assignment worth 25% of final mark. Due dates as below. The individual assignment will be to conduct a documentation review session with one other team's docs. 
@@ -87,7 +91,7 @@ One individual assignment worth 25% of final mark. Due dates as below. The indiv
 75% of final mark. Students will be assigned to teams and document an open source software system. Due dates in calendar below.
  
 ### Project Milestones
-See project.md
+See [project.md](https://github.com/SENG480-18/course/blob/master/project.md).
 
 ## Midterm
 No midterm.
