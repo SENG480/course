@@ -6,7 +6,7 @@ Author: Neil Ernst
 # Overview
 The course project is a semester long effort to apply the ideas behind code reading and communication to a realistic project.
 
-Your team gets to choose the project you will work on (subject to some restrictions). In general the project must be *active* (daily commits), *moderately large* (>100 stars on GH, but not intractably complex), and *open-source*. Since other teams have done this type of course, you cannot select from the [banned project list](https://github.com/SENG480-S18/blob/master/banned.md). This is to avoid annoying hard-working and under-compensated OSS maintainers.  
+Your team gets to choose the project you will work on (subject to some restrictions). In general the project must be *active* (daily commits), *moderately large* (>100 stars on GH, but not intractably complex), and *open-source*. Since other teams have done this type of course, you cannot select from the [banned project list](https://github.com/SENG480-S18/blob/master/course/banned.md). This is to avoid annoying hard-working and under-compensated OSS maintainers.  
 
 ## Milestones
 
