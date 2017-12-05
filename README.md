@@ -8,34 +8,35 @@ Author: Neil Ernst
 
 The following schedule is subject to change, and will change.
 
-| Class  | Topics | Resources | Readings  (do this *before* this class)     |
-| ------ | --------------------------------------------------------- | --------- | ---------------- |
-| Jan 4  | Intro; introductions; What is Software Architecture? | | textbook chapters 1 |
-| Jan 8  | Software arch overview. Project outlined | | chapter 2 and 3 |
-| Jan 15 | Views on Architecture | | text chapter 18 | 
-| Jan 18 | Views part 2 | | |
-| Jan 22 | Architecture Stakeholders and Requirements | | chapter 16 | 
-| Jan 25 | Architecture and Design | | ch 17 |
-| Jan 29 | Architecture and Design | | |
-| Feb 1  | Guest lecture - software modernization | | |
-| Feb 5  | API and Interface documentation | | |
-| Feb 8  | Mid-term project status updates | |
-| Feb 12 | Reading Break | |
-| Feb 15 | Reading Week | |
-| Feb 19 | Behavioral Documentation | |
-| Feb 22 | Communication and user-centered docs | | 
-| Feb 26 | (Float) | |
-| Feb 29 | Guest lecture - model driven development | |
-| Mar 5  | Module views. Microservice styles. | | | 
-| Mar 8 | C&C views: product lines | | ch 29 |
-| Mar 12 | Allocation views:  MVC styles | |
-| Mar 15 | Architecture analysis | |
-| Mar 19 | Architecture analysis | |
-| Mar 22 | Guest lecture - agile teams and architecture | |
-| Mar 26 | Technical debt | | |
-| Mar 29 | (float) | | |
-| Apr 2 | Project presentation | |
-| Apr 5 | Project presentation | |
+| Class  | Topics | Other Resources | Readings  | Deadline |
+| ------ | --------------------------------------------------------- | --------- | ---------------- |------- |
+| Jan 4  | Intro; introductions; What is Software Architecture? | | textbook chapters 1 | |
+| Jan 8  | Software arch overview. Project outlined | | chapter 2 and 3 | |
+| Jan 15 | Architecture Stakeholders and Requirements | | chapter 16.  | **M0 due** |
+| Jan 18 | Views on Architecture - Modules | | text chapter 18. | |
+| Jan 22 | Views part 2 - C&C || | **M1 due** | 
+| Jan 25 | Architecture and Design | | ch 17 | |
+| Jan 29 | Architecture and Design | | | **M2 due** | 
+| Feb 1  | *Industry lecture - software modernization* | | | |
+| Feb 5  | API and Interface documentation | | | |
+| Feb 8  | Mid-term project status updates | | | **assignment 1 due** | 
+| Feb 12 | Reading Break | | |
+| Feb 15 | Reading Week | | |
+| Feb 19 | Behavioral Documentation | | | **M3 due** |
+| Feb 22 | Communication and user-centered docs | |  | |
+| Feb 26 | Midterm | | | **Midterm** |
+| Feb 29 | *Industry lecture - model driven development* | | |
+| Mar 5  | Microservice styles. | | | **M4 due** |
+| Mar 8 | (float) | || |
+| Mar 12 | Documenting Ops | | |
+| Mar 15 | Architecture analysis | | |
+| Mar 19 | Architecture analysis | | | **M5 due** |
+| Mar 22 | *Industry lecture - agile teams and architecture* | | |
+| Mar 26 | Technical debt | | | |
+| Mar 29 | (float) | | | |
+| Apr 2 | Project presentation | | | **M6 due** |
+| Apr 5 | Project presentation | | | |
+| Apr 10 | No class ||| **Grad report due** |
 
 # Syllabus
 Software is a long-lived and complex thing. This course is about understanding software in the large. We use the SEI text as a framework for understanding large-scale software systems. Topics include
@@ -82,19 +83,22 @@ The class will use [Github](https://github.com/SENG480-18) and [Slack](https://s
 University and department policies on professional conduct and integrity are applicable. Feel free to see me in person, or via UVic email, for personal questions.
 
 ## Overview
-The primary deliverable is a group project worth 75% of the mark. You and your team of 4-5 will select a software project (e.g., OSS on Github), and document important views on the software. The end result will be a set of documentation about the software system and a deep understanding of how it is constructed.
+There is one assignment, a midterm, and a substantial group project. Grad students have one extra assignment to conduct. 
 
 ## Assignment
-One individual assignment worth 25% of final mark. Due dates as below. The individual assignment will be to conduct a documentation review session with one other team's docs. 
+*Undergrads*: One individual assignment worth **25%** of final mark. Due dates as below. 
+
+- for one of the projects in the course, pick a quality attribute, create a quality attribute scenario, and document how the project source code realizes this scenario. Provide discussion on how the project can handle changes in this scenario in the future.
+
+*Grads*: the undergrad assignment, plus 
+
+- a documentation review session on the student document, with report detailing how well the documentation has been completed (e.g., can we answer key stakeholder questions).
 
 ## Group Project
-75% of final mark. Students will be assigned to teams and document an open source software system. Due dates in calendar below.
- 
-### Project Milestones
-See [project.md](https://github.com/SENG480-18/course/blob/master/project.md).
+The primary deliverable is a group project. You and your team will select a software project (OSS on Github), and document important views on the software. The end result will be a set of documentation about the software system and a deep understanding of how it is constructed. **60%** of final mark. Students will be assigned to teams and document an open source software system. Due dates in calendar below. See [the Project outline](https://github.com/SENG480-18/course/blob/master/project.md).
 
 ## Midterm
-No midterm.
+One midterm, worth **15%**. Tentatively scheduled for Feb 26.
 
 ## Final
 No final.
