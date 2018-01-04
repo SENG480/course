@@ -35,9 +35,10 @@ The following schedule is subject to change, and will change.
 | Mar 22 | *Industry lecture - agile teams and architecture* | | |
 | Mar 26 | Technical debt | | | |
 | Mar 29 | (float) | | | |
-| Apr 2 | Project presentation | | | **M6 due** |
-| Apr 5 | Project presentation | | | |
+| Apr 2 | Project presentation | | | |
+| Apr 5 | Project presentation | | | **M6 and M7 due in repo**  |
 | Apr 10 | No class ||| **Grad report due** |
+
 # Syllabus
 Software is a long-lived and complex thing. This course is about understanding software in the large. We use the SEI text as a framework for understanding large-scale software systems. Topics include
 

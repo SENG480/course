@@ -7,16 +7,17 @@ Author: Neil Ernst
 The course project is a semester long effort to apply the ideas behind code reading and communication to a realistic project.
 
 Your team gets to choose the project you will work on (subject to some restrictions). In general the project must be *active* (daily commits), *moderately large* (>100 stars on GH, but not intractably complex), and *open-source*. Since other teams have done this type of course, you cannot select from the [banned project list](https://github.com/SENG480-18/course/blob/master/banned.md). This is to avoid annoying hard-working and under-compensated OSS maintainers.  
+
 ## Milestones
 
 - **M0.** team formation and Github (5%)
-- **M1.** identify stakeholders (10%)
+- **M1.** identify project stakeholders and business goals (5%)
 - **M2.** identify architecturally significant requirements and utility tree (10%)
-- **M3.** module view (15%)
-- **M4.** C&C view (15%)
-- **M5.** assess project quality and debt (10%)
-- **M6.** present report (35%)
-- **Bonus**: using your knowledge of the project, submit a pull request that improves the project somehow (most likely, by adding useful documentation). (+10%)
+- **M3.** module view (20%)
+- **M4.** C&C view (20%)
+- **M5.** assess project code quality and technical debt (15%)
+- **M6.** present report in class, deliver final chapter proof-edited and well organized (10%)
+- **M7**: using your knowledge of the project, submit a pull request that improves the project. (15%)
 
 ## Teams
 
@@ -28,62 +29,116 @@ Your team gets to choose the project you will work on (subject to some restricti
     -   Are there any impediments in your way?
 - You can organize how you wish, but everyone must contribute, and one person should be in charge of overall planning. 
 
-All students are expected to participate equally in discussions, design and development. The instructor will make marking adjustments for individual students where this participation has not occurred; this may result in a failing grade for the project. At the mid-point and conclusion of the project you will be asked to evaluate your colleagues on the team. Your peer review score will influence what percentage of the project mark you get. 
+All students are expected to participate equally in discussions, design and development. The instructor will make marking adjustments for individual students where this participation has not occurred; this may result in a failing grade for the project. At the mid-point and conclusion of the project you will be asked to evaluate your colleagues on the team. Your peer review score and participation on Github/Slack will strongly influence what percentage of the project mark you get. 
 
+# Formats and Logistics
+The final team deliverable is a *book chapter* that we will publish on [Gitbook](https://www.gitbook.com/). Gitbook accepts both Markdown and ASCIIdoc; both of these are described on [the Gitbook help pages](https://toolchain.gitbook.com/structure.html). You will write the submissions in a Github team repository with standard text editors. Markdown and ASCIIdoc editors are also plentiful. I like [Byword](https://bywordapp.com) and [Marked](http://marked2app.com). 
+
+Your final presentation will be an architecture presentation, of the system you chose, to the entire class. Keynote/Powerpoint etc are suitable here. 
 
 # Milestones
-## 1. Identifying stakeholders
+Note that since we are *documenting and communicating*, good technical writing practices (spelling, grammar, organization, clarity) are always required and will be subject to lost marks if not followed. You can always reach out to the [Center for Academic Communication](https://www.uvic.ca/learningandteaching/home/home/centre/index.php) if you need extra assistance.
 
+## 0. Github (5%)
 ### Deadline
-This is due in Github **midnight Oct 27.** (That is, on Oct 27 we will snapshot your issue trackers.)
+Jan 15.
 
 ### Deliverables
-1. Github issues on your team Github site.
-2. Github wiki page(s) outlining your expanded version of Assignment 1 use cases, scoping, and assumptions.
+- Create a repository using the Github Classroom link
+- send your Github IDs to Omar
+- update the Readme with your team's name, and 3 projects of interest.
+
+### Marking Guide
+Simple. Do the above for full marks.
+
+## 1. Identifying project stakeholders and business goals (5%)
+This deliverable will serve as an introduction to the project you have chosen to focus on. You will read project documents and related material (e.g., StackOverflow) to get a sense for who the stakeholders are, and what the project wants to accomplish.
+
+### Deadline
+This is due in Github **midnight Jan 22.** 
+
+### Deliverables
+1. Identify stakeholders for the system you chose. Complete a [stakeholder profile table](https://www.viewpoints-and-perspectives.info/home/stakeholders/):
+2. Create a list of business goals (see chap 16) for this system. We will use those in M2 as well.
 
 ### Marking Guide	
-- Match between technical approach and user problem
-- Clarity of issue descriptions
-- Coverage of domain use cases
-	
-## 2. 
+- completeness and relevance of stakeholders.
+- properly thought out business goals, based on empirical data (project docs, tech pubs, etc.)
+
+## 2. Architecturally significant requirements (ASRs) and utility tree (10%)
 
 ### Deadline
-Due in Github by **.**
+Due in Github by **Jan. 29**
 
 ### Deliverables
-* Github wiki page(s) with the design decisions, Ubiquitous language, detailed structural model (class diagram) of the system, and a runtime diagram.
+1. The list of ASRs
+2. A fully worked out utility tree, with at least 7 prioritized quality attribute scenarios, 3 in template form.
 
 ### Marking Guide
--
+- Relevance of the ASRs to the project. 
+- Appropriateness of scenarios.
+- Quality of scenarios.
 
-## 3.
-
-
-### Deadline
-
-
-### Deliverables
-
-### Marking Guide
-
-## 4. 
+## 3. Module View (15%)
 
 ### Deadline
+Due in Github by **Feb 19**.
 
 ### Deliverables
-
+A fully worked module view according to the SEI view templates. Includes interface and behavior documentation.
 
 ### Marking Guide
 
-## Deadline
+## 4. Component and Connector View (15%)
 
-## Deliverables
+### Deadline
+Due in Github by **March 5**.
 
-## 6. Bonus Marks
+### Deliverables
+A fully worked C&C view according to the SEI view templates. Includes interface and behavior documentation.
+### Marking Guide
 
-# Tech
+## 5. Code Quality and Technical Debt (15%)
+Assess your project's code quality using automated tools like BetterCodeHub, Sonarqube, CodeScene.
 
+### Deadline
+Due in Github by **March 19**.
+
+### Deliverables
+1. Code quality report.
+2. Based on your architecture documents, analyze potential technical debt in the project. Report at least 3 potential shortcuts that might have long-term consequences.
+
+### Marking Guide
+
+## 6. Final Presentation and Report  (10%)
+In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references).
+
+### Deadline
+Due in Github by **Apr 6**. Presentation in class either Apr 2 or 5.
+
+### Deliverables
+Use the GitBook toolchain to ensure your chapter compiles to something readable on the site. 
+
+Presentation must be attended by all group members, all of whom may be asked questions about the project.
+
+### Marking Guide
+* Presentation organization
+* Presentation competently run
+* Presentation on time.
+* Report compiles to PDF/Gitbook
+* Report has all necessary sections.
+* Report has fixed comments from previous submissions.
+
+## 7. Pull Request (15%)
+
+### Deadline
+Due in Github by **midnight Apr 6**.
+
+### Deliverables
+Link to a pull request for your case study, showing an improvement.
+
+### Marking Guide
+Silly or trivial pull requests will lose marks. It does not have to be complex, but does have to demonstrate you understand the project and are not just annoying the maintainers.
 
 # Educational Objectives
 
