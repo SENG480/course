@@ -38,7 +38,6 @@
 | OpenTripPlanner    | 2016 |
 | Play Framework     | 2015 |
 | Processing     | 2017 |
-| Project | Year |
 | Ruby on Rails  | 2016 |
 | Scikit Learn   | 2017 |
 | Scrapy     | 2017 |
