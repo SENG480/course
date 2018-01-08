@@ -79,7 +79,7 @@ Due in Github by **Jan. 29**
 - Appropriateness of scenarios.
 - Quality of scenarios.
 
-## 3. Module View (15%)
+## 3. Module View (20%)
 
 ### Deadline
 Due in Github by **Feb 19**.
@@ -89,7 +89,7 @@ A fully worked module view according to the SEI view templates. Includes interfa
 
 ### Marking Guide
 
-## 4. Component and Connector View (15%)
+## 4. Component and Connector View (20%)
 
 ### Deadline
 Due in Github by **March 5**.

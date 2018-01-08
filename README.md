@@ -51,7 +51,7 @@ Software is a long-lived and complex thing. This course is about understanding s
 * agile architecture
 * design, architecture, and technical debt
 
-(the official course syllabus is [distributed via HEAT](https://heat.csc.uvic.ca/coview/outline/201))
+(the official course syllabus is [distributed via HEAT (SENG480a link)](https://heat.csc.uvic.ca/coview/outline/2018/Spring/SENG/480A))
 
 ## Required Text:
 SEI Software Architecture in Practice, Len Bass, Paul Clements, Rick Kazman. 3rd Edition. 2013.
