@@ -10,16 +10,16 @@ The following schedule is subject to change, and will change.
 
 | Class  | Topics | Other Resources | Readings  | Deadlines |
 | ------ | --------------------------------------------------------- | --------- | ---------------- |------- |
-| Jan 4  | Intro; introductions; What is Software Architecture? | | textbook chapters 1 | |
-| Jan 8  | Software arch overview. Project outlined | | chapter 2 | |
-| Jan 11 | Software arch overview. User-centric documentation. Team kickoff | | chapter 3 | | 
-| Jan 15 | Architecture Stakeholders and Requirements | | chapter 16.  | **M0 due** |
+| Jan 4  | Intro; introductions; Project outlined. What is Software Architecture? | | textbook chapters 1 | |
+| Jan 8  | Software arch overview. | | chapter 2 | |
+| Jan 11 | Reading Code. | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
+| Jan 15 | Architecture Stakeholders and Requirements. Team kickoff | | chapter 16.  | **M0 due** |
 | Jan 18 | Views on Architecture - Modules | | text chapter 18. | |
 | Jan 22 | Views part 2 - C&C || | **M1 due** | 
 | Jan 25 | Architecture and Design | | ch 17 | |
 | Jan 29 | Documenting behavior | | | **M2 due** | 
 | Feb 1  | *Industry lecture - software modernization* | | | |
-| Feb 5  | API and Interface documentation | | | |
+| Feb 5  | API and Interface documentation . User centric docs| | | |
 | Feb 8  | Mid-term project status updates | | | **assignment 1 due** | 
 | Feb 12 | Reading Break | | |
 | Feb 15 | Reading Week | | |
