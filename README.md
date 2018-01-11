@@ -12,21 +12,21 @@ The following schedule is subject to change, and will change.
 | ------ | --------------------------------------------------------- | --------- | ---------------- |------- |
 | Jan 4  | Intro; introductions; Project outlined. [What is Software Architecture](https://github.com/SENG480-18/course/blob/master/lectures/1-intro.md)? | | textbook chapters 1 | |
 | Jan 8  | [Software arch overview](https://github.com/SENG480-18/course/blob/master/lectures/2-arch.md). | | chapter 2 | |
-| Jan 11 | Reading Code. | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
+| Jan 11 | [Reading Code.](https://github.com/SENG480-18/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
 | Jan 15 | Architecture Stakeholders and Requirements. Team kickoff | | chapter 16.  | **M0 due** |
 | Jan 18 | Views on Architecture - Modules | | text chapter 18. | |
 | Jan 22 | Views part 2 - C&C || | **M1 due** | 
 | Jan 25 | Architecture and Design | | ch 17 | |
 | Jan 29 | Documenting behavior | | | **M2 due** | 
 | Feb 1  | *Industry lecture - software modernization* | | | |
-| Feb 5  | API and Interface documentation . User centric docs. Technical writing skills (30 mins) | | | |
+| Feb 5  | API and Interface documentation. User centric docs. *Technical writing skills (30 mins)* | | | |
 | Feb 8  | Mid-term project status updates | | | **assignment 1 due** | 
 | Feb 12 | Reading Break | | |
 | Feb 15 | Reading Week | | |
 | Feb 19 | Group work in class - Omar leads | | | **M3 due** |
 | Feb 22 | Class cancelled - Neil away | |  | |
 | Feb 26 | Midterm | | | **Midterm** |
-| Feb 29 | *Industry lecture - model driven development* | | |
+| Mar 1 | *Industry lecture - model driven development* | | |
 | Mar 5  | Microservice styles. | | | **M4 due** |
 | Mar 8 | (float) | || |
 | Mar 12 | Documenting Ops | | |
