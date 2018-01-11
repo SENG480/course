@@ -19,7 +19,7 @@ The following schedule is subject to change, and will change.
 | Jan 25 | Architecture and Design | | ch 17 | |
 | Jan 29 | Documenting behavior | | | **M2 due** | 
 | Feb 1  | *Industry lecture - software modernization* | | | |
-| Feb 5  | API and Interface documentation . User centric docs| | | |
+| Feb 5  | API and Interface documentation . User centric docs. Technical writing skills (30 mins) | | | |
 | Feb 8  | Mid-term project status updates | | | **assignment 1 due** | 
 | Feb 12 | Reading Break | | |
 | Feb 15 | Reading Week | | |
