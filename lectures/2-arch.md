@@ -101,7 +101,6 @@ What types of structures do we care about in building a reasonable large piece o
 We need to keep in mind, as we seek to document and understand the system, why we are doing this. After all, our time is not free - we could be doing other things. We only document something if it is worth the cost. In this course, naturally the cost is near-infinite for *not* documenting (you fail), but in practice it is a more difficult decision. A colleague and I once spent 7 days at a  company site to help them document their large-scale, high-performance system with 20 other people. It was worth the cost. But even there, after 7 days, we could only make a small dent in the overall system complexity. 
 
 ## 7 Principles for Effective Documentation
-
 1. Write for the reader
 2. Avoid repetition
 3. Avoid ambiguity

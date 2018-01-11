@@ -10,8 +10,8 @@ The following schedule is subject to change, and will change.
 
 | Class  | Topics | Other Resources | Readings  | Deadlines |
 | ------ | --------------------------------------------------------- | --------- | ---------------- |------- |
-| Jan 4  | Intro; introductions; Project outlined. What is Software Architecture? | | textbook chapters 1 | |
-| Jan 8  | Software arch overview. | | chapter 2 | |
+| Jan 4  | Intro; introductions; Project outlined. [What is Software Architecture](https://github.com/SENG480-18/course/blob/master/lectures/1-intro.md)? | | textbook chapters 1 | |
+| Jan 8  | [Software arch overview](https://github.com/SENG480-18/course/blob/master/lectures/2-arch.md). | | chapter 2 | |
 | Jan 11 | Reading Code. | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
 | Jan 15 | Architecture Stakeholders and Requirements. Team kickoff | | chapter 16.  | **M0 due** |
 | Jan 18 | Views on Architecture - Modules | | text chapter 18. | |
