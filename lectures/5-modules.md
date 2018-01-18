@@ -1,7 +1,7 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 5 - Module Views
 Author: Neil Ernst
-Date: Jan 17, 2018
+Date: Jan 18, 2018
 ---
 
 # Structures
