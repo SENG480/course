@@ -15,11 +15,11 @@ The following schedule is subject to change, and will change.
 | Jan 11 | [Reading Code.](https://github.com/SENG480-18/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
 | Jan 15 | Architecture Stakeholders and Requirements. Team kickoff | | chapter 16.  | **M0 due** |
 | Jan 18 | Views on Architecture - Modules | | text chapter 18. | |
-| Jan 22 | Views part 2 - C&C || | **M1 due** | 
+| Jan 22 | Views part 2 - C&C | | chapter 4 | **M1 due** | 
 | Jan 25 | Architecture and Design | | ch 17 | |
-| Jan 29 | Documenting behavior | | | **M2 due** | 
+| Jan 29 | Documenting behavior | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | **M2 due** | 
 | Feb 1  | *Industry lecture - software modernization* | | | |
-| Feb 5  | API and Interface documentation. User centric docs. *Technical writing skills (30 mins)* | | | |
+| Feb 5  | API and Interface documentation. User centric docs. *Technical writing skills (30 mins)* | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) | |
 | Feb 8  | Mid-term project status updates | | | **assignment 1 due** | 
 | Feb 12 | Reading Break | | |
 | Feb 15 | Reading Week | | |
@@ -29,9 +29,9 @@ The following schedule is subject to change, and will change.
 | Mar 1 | *Industry lecture - model driven development* | | |
 | Mar 5  | Microservice styles. | | | **M4 due** |
 | Mar 8 | (float) | || |
-| Mar 12 | Documenting Ops | | |
-| Mar 15 | Architecture analysis | | |
-| Mar 19 | Architecture analysis | | | **M5 due** |
+| Mar 12 | Documenting Ops | | <!--RW text has chap 21 ; allocation views; Len's book --> |
+| Mar 15 | Architecture analysis | | ch 21 | |
+| Mar 19 | Architecture analysis | | ch 21 | **M5 due** |
 | Mar 22 | *Industry lecture - agile teams and architecture* | | |
 | Mar 26 | Technical debt | | | |
 | Mar 29 | (float) | | | |
