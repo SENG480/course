@@ -119,4 +119,4 @@ If you haven't seen them before, you might notice new CS concepts: generators, c
 # References
 * http://wiki.c2.com/?TipsForReadingCode
 * Working Effectively With Legacy Code, Michael Feathers
-* How Do Program Understanding Tools Affect How Programmers Understand Programs? Storey, Wong, Mueller. ICPC 1997.
+* [How Do Program Understanding Tools Affect How Programmers Understand Programs?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.400.223&rep=rep1&type=pdf) Storey, Wong, Mueller. ICPC 1997.
