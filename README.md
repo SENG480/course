@@ -13,8 +13,8 @@ The following schedule is subject to change, and will change.
 | Jan 4  | Intro; introductions; Project outlined. [What is Software Architecture](https://github.com/SENG480-18/course/blob/master/lectures/1-intro.md)? | | textbook chapters 1 | |
 | Jan 8  | [Software arch overview](https://github.com/SENG480-18/course/blob/master/lectures/2-arch.md). | | chapter 2 | |
 | Jan 11 | [Reading Code.](https://github.com/SENG480-18/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
-| Jan 15 | Architecture Stakeholders and Requirements. Team kickoff | | chapter 16.  | **M0 due** |
-| Jan 18 | Views on Architecture - Modules | | text chapter 18. | |
+| Jan 15 | [Architecture Stakeholders and Requirements](https://github.com/SENG480-18/course/blob/master/lectures/4-req.md). Team kickoff | | chapter 16.  | **M0 due** |
+| Jan 18 | [Views on Architecture - Modules](https://github.com/SENG480-18/course/blob/master/lectures/5-modules.md) | | text chapter 18. | |
 | Jan 22 | Views part 2 - C&C | | chapter 4 | **M1 due** | 
 | Jan 25 | Architecture and Design | | ch 17 | |
 | Jan 29 | Documenting behavior | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | **M2 due** | 
