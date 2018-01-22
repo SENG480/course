@@ -30,10 +30,11 @@ For one of the projects in the course, pick a quality attribute, create a qualit
 # Requirements
 1. Choose a [Project](https://github.com/SENG480-18/course/wiki/Project-Group-Mapping) (not your own)
 2. For that project, pick one of the following quality attributes, and create a simple scenario for it. I have provided some detail, but you should make it clear who creates the stimulus, what the response and response measure could be. In some cases (e.g. time to deploy) you will not be able to find the *actual* values, so make a reasonable guess (2 days is likely too slow; 10 minutes is too quick).
-	a. **Maintainability** - Time required to deploy to production. This requires examining the project's DevOps and CI infrastructure.
-	b. **Performance** - Latency. This requires understanding the project's performance goals, picking a good latency measure, and showing how the code supports that.
-	c. **Security** - Intrusion Detection. How has this project prepared to detect intruders. Keep in mind intruders are well equipped with counter-measures.
-	d. **Maintainability** - Time required to make change, test it, and commit it. Requires knowledge of module dependencies and project test plans.
+	  1. **Maintainability** - Time required to deploy to production. This requires examining the project's DevOps and CI infrastructure.
+	  2. **Performance** - Latency. This requires understanding the project's performance goals, picking a good latency measure, and showing how the code supports that.
+	  3. **Security** - Intrusion Detection. How has this project prepared to detect intruders. Keep in mind intruders are well equipped with counter-measures.
+	  4. **Maintainability** - Time required to make change, test it, and commit it. Requires knowledge of module dependencies and project test plans.
+	
 3. Once you have your scenario, play architecture consultant. Pretend that you have been called in to advise the development team whether or not the current architecture meets the scenario. Document your findings with an appropriate view and surrounding documentation.
 4. Most of the scenarios we've covered in the course are "use case scenarios". These are the basic, normal operations/functionality scenarios. It is also useful to consider "growth scenarios", that is, scenarios that test what happens if the system experiences growth (e.g, moves from 1000 requests per second to 100,000 requests.) [^other] Building on the use case scenario you chose above, construct a reasonable growth scenario (you can 'ratchet' the use case scenario if you wish) and explain where and how the code base will handle this change.
 
@@ -44,9 +45,9 @@ For one of the projects in the course, pick a quality attribute, create a qualit
 2. Detailed QAS (chosen from 4 above) complete with project specific stimulus, response/response measure.
 3. Expansion of QAS for growth; indicate what aspects change (response measure for example).
 4. For both scenarios:
-	a. Introduce your approach to code investigation: where did you start, what views were necessary
-	b. Present one view showing/tracing how the code (as-is) handles/doesn't handle the scenario
-	c. Text that explains the view; explains what elements are present; and a causal chain explaining your reasoning for concluding how well the architecture handles that scenario. Link to specific code elements.
+	1. Introduce your approach to code investigation: where did you start, what views were necessary
+	2. Present one view showing/tracing how the code (as-is) handles/doesn't handle the scenario
+	3. Text that explains the view; explains what elements are present; and a causal chain explaining your reasoning for concluding how well the architecture handles that scenario. Link to specific code elements.
 
 
 [^other]: The third type of scenario is "exploratory", where we test unanticipated changes to the system, e.g. the Netflix Chaos Monkey approach.
