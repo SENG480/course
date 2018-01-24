@@ -16,7 +16,7 @@ The following schedule is subject to change, and will change.
 | Jan 15 | [Architecture Stakeholders and Requirements](https://github.com/SENG480-18/course/blob/master/lectures/4-req.md). Team kickoff | | text chapter 16  | **M0 due** |
 | Jan 18 | More on Requirements and Scenarios • Project work |||
 | Jan 22 | [Views on Architecture - Modules](https://github.com/SENG480-18/course/blob/master/lectures/5-modules.md) | | text chapter 18 | **M1 due** |
-| Jan 25 | Views part 2 - C&C | | text chapter 4 | | 
+| Jan 25 | [Views part 2 - C&C](https://github.com/SENG480-18/course/blob/master/lectures/6-cc.md) | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 4 | | 
 | Jan 29 | Architecture and Design | | text chapter 17 | |
 | Feb 1  | Documenting behavior | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | **M2 due** | 
 | Feb 5  | API and Interface documentation. User centric docs. *Technical writing skills (30 mins)* | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) | |
