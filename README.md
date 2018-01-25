@@ -73,7 +73,7 @@ SEI Software Architecture in Practice, Len Bass, Paul Clements, Rick Kazman. 3rd
 
 ## Instructors
 
-* [Neil Ernst](http://neilernst.net), instructor. Office ECS 560, office hours TBD.
+* [Neil Ernst](http://neilernst.net), instructor. Office ECS 560, office hours after class Thursday or DM me.
 * Omar Elazhary, teaching assistant
 
 # Course Overview
