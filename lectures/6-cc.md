@@ -68,7 +68,7 @@ Shows modifiability and reuse possible in a 2 tier architecture. Analyze availab
 ![Web scalability image](http://aosabook.org/images/distsys/imageHosting3.png)
 
 # Exercise
-In your groups, create a client-server diagram for a multiplayer game like DODA.
+In your groups, create a client-server diagram for a multiplayer game like [DOTA](http://www.dota2.com/play/).
 
 # Shared Data
 Read and write to a shared data store. Analyze data needs, identify who connects.

@@ -68,11 +68,11 @@ This is due in Github **midnight Jan 22.**
 ## 2. Architecturally significant requirements (ASRs) and utility tree (10%)
 
 ### Deadline
-Due in Github by **Jan. 29**
+Due in Github by **Feb 1**
 
 ### Deliverables
 1. The list of ASRs
-2. A fully worked out utility tree, with at least 7 prioritized quality attribute scenarios, 3 in template form.
+2. A fully worked out utility tree, with at least 7 prioritized quality attribute scenarios, 3 (of the 7) in template form.
 
 ### Marking Guide
 - Relevance of the ASRs to the project. 
