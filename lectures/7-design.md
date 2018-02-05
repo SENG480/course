@@ -113,6 +113,8 @@ At the end of this step, the architectural design consists of major types of ele
 
 ![design concerns](img/add-designconcerns.pdf)
 
+(note, this does not display on Github, but the link will show the PDF).
+
 We then select designs that address the concerns. One way to do this is with design patterns and architecture tactics. Design patterns were covered in SENG330. Architecture tactics are similar, but focus on the solution to a particular quality attribute. For example, to handle *Performance*, we need to *Manage Resources*. Some tactics to do this include *using concurrency*, using *multiple copies of the data*, and *bounding queue sizes*
 
 You can find more tactics in the book. Most of the book covers architecture tactics. 

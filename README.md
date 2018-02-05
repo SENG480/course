@@ -17,9 +17,9 @@ The following schedule is subject to change, and will change.
 | Jan 18 | More on Requirements and Scenarios • Project work |||
 | Jan 22 | [Views on Architecture - Modules](https://github.com/SENG480-18/course/blob/master/lectures/5-modules.md) | | text chapter 18 | **M1 due** |
 | Jan 25 | [Views part 2 - C&C](https://github.com/SENG480-18/course/blob/master/lectures/6-cc.md) | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 4 | | 
-| Jan 29 | Architecture and Design | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17 | |
-| Feb 1  | Documenting behavior | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | **M2 due** | 
-| Feb 5  | API and Interface documentation. User centric docs. *Technical writing skills (30 mins)* | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) | |
+| Jan 29 | [Architecture and Design](https://github.com/SENG480-18/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17 | |
+| Feb 1  | Design cont. ||| **M2 due** | 
+| Feb 5  | [Documenting behavior.](https://github.com/SENG480-18/course/blob/master/lectures/8-behavior.md) [*Technical writing skills (30 mins)*](https://github.com/SENG480-18/course/blob/master/lectures/Technical%20Writing%20FINAL.pptx)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | |
 | Feb 8  | Mid-term project status updates | | | **assignment 1 due** | 
 | Feb 12 | Reading Break | | |
 | Feb 15 | Reading Week | | |
@@ -27,8 +27,8 @@ The following schedule is subject to change, and will change.
 | Feb 22 | Class cancelled - Neil away | |  | |
 | Feb 26 | Midterm | | | **Midterm** |
 | Mar 1 | *Industry lecture - model driven development* | | |
-| Mar 5  | Microservice styles. | | | **M4 due** |
-| Mar 8 | (float) | || |
+| Mar 5  |  API and Interface documentation. User centric docs. | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |  **M4 due** |
+| Mar 8 | Microservice styles. | || |
 | Mar 12 | Documenting Ops | | <!--RW text has chap 21 ; allocation views; Len's book --> |
 | Mar 15 | Architecture analysis | | ch 21 | |
 | Mar 19 | Architecture analysis | | ch 21 | **M5 due** |
