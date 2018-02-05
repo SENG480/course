@@ -33,7 +33,7 @@ For one of the projects in the course, pick a quality attribute, create a qualit
 	  1. **Maintainability** - Time required to deploy to production. This requires examining the project's DevOps and CI infrastructure.
 	  2. **Performance** - Latency. This requires understanding the project's performance goals, picking a good latency measure, and showing how the code supports that.
 	  3. **Security** - Intrusion Detection. How has this project prepared to detect intruders. Keep in mind intruders are well equipped with counter-measures.
-	  4. **Maintainability** - Time required to make change, test it, and commit it. Requires knowledge of module dependencies and project test plans.
+	  4. **Modifiability** - Time required to make change, test it, and commit it. Requires knowledge of module dependencies and project test plans.
 	
 3. Once you have your scenario, play architecture consultant. Pretend that you have been called in to advise the development team whether or not the current architecture meets the scenario. Document your findings with an appropriate view and surrounding documentation.
 4. Most of the scenarios we've covered in the course are "use case scenarios". These are the basic, normal operations/functionality scenarios. It is also useful to consider "growth scenarios", that is, scenarios that test what happens if the system experiences growth (e.g, moves from 1000 requests per second to 100,000 requests.) [^other] Building on the use case scenario you chose above, construct a reasonable growth scenario (you can 'ratchet' the use case scenario if you wish) and explain where and how the code base will handle this change.
