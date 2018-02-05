@@ -135,7 +135,7 @@ There are three design concerns related to modifiability:
 -->
 
 0. What QA is most relevant here?
-1. What *design concerns* do we need to think about? Identify 2 modifiability tactics that are relevant. (use the back of the book). 
+1. What *design concerns* do we need to think about? Identify 2 [modifiability tactics](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2007_005_001_14858.pdf) that are relevant. (use the back of the book). 
 2. Identify 1 externally-developed solution that might help with the problem.
 3. For each tactic and the OTS solution, identify the tradeoffs each makes in solving the problem.
 
