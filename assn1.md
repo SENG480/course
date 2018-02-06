@@ -12,10 +12,10 @@ Note:
 ## Presentation Guidelines
 
 * marks will be deducted if not followed
-* First page should be a cover page that indicates your name and student number, title of your project, problem statement for the project and a table of contents for the document.
+* First page should be a cover page that indicates your name and student number, title of your project, <strike>problem statement for the project</strike> (edit: not necessary) and a table of contents for the document.
 * Include page numbers, i.e. 1 of 10 and your name 
 * Include clear section headings that match the assignment description (e.g. “Part A: Domain model and glossary”)
-* For each section, include a short introductory paragraph explaining the section content (e.g. “In this section I describe the 10 most important requirements for the client. For each requirement I include information such as ... “).
+* For each section, include a short introductory paragraph explaining the section content (e.g. "in this section I describe the 10 most important requirements for the client. For each requirement I include information such as ... ").
 * We are reading code; like in English, support your assertions with reference to specific lines of code or chunks of code. Cite this using hyperlinks. For example, "ActionView's [prepare_context](https://github.com/rails/rails/blob/7ca3ab415d409ba39b07ff5a96da06d68098069b/actionview/lib/action_view/context.rb#L22) method has a potential buffer underflow problem"
 
 # Overview
@@ -42,12 +42,14 @@ For one of the projects in the course, pick a quality attribute, create a qualit
 
 # Deliverables
 1. Introduction describing the project you chose
-2. Detailed QAS (chosen from 4 above) complete with project specific stimulus, response/response measure.
+2. Detailed use case QAS (chosen from 4 above) complete with project specific stimulus, response/response measure.
 3. Expansion of QAS for growth; indicate what aspects change (response measure for example).
-4. For both scenarios:
+4. For each scenario (use case and growth):
 	1. Introduce your approach to code investigation: where did you start, what views were necessary
-	2. Present one view showing/tracing how the code (as-is) handles/doesn't handle the scenario
-	3. Text that explains the view; explains what elements are present; and a causal chain explaining your reasoning for concluding how well the architecture handles that scenario. Link to specific code elements.
+	2. Present <s>one view</s> one diagram showing/tracing how the code (as-is) handles/doesn't handle the scenario. <font color="red">Include a key.</font>
+	3. Text that explains the diagram; explains what elements are present; and a causal chain explaining your reasoning for concluding how well the architecture handles that scenario. Link to specific code elements. <font color="red">There is no need to follow the [view template](https://github.com/SENG480-18/course/blob/master/lectures/6-cc.md#representing-views) in the assignment---that is part of the project instead.</font>
 
+# Hints
+<font color="red">Remember we are interested in answering a question. Here, the question is some version of "How well does our current design support this scenario". Start by refining the scenario for your project to a specific response measure. Then draw a diagram that will help answer the question. Don't worry about making the diagram conform to a view style just yet. Finally, your diagram should be specific to this particular scenario. But don't forget to include important context (e.g., if you are talking about deployability, mentioning AWS would be relevant).</font>
 
 [^other]: The third type of scenario is "exploratory", where we test unanticipated changes to the system, e.g. the Netflix Chaos Monkey approach.
