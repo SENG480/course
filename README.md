@@ -20,7 +20,7 @@ The following schedule is subject to change, and will change.
 | Jan 29 | [Architecture and Design](https://github.com/SENG480-18/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17 | |
 | Feb 1  | Design cont. ||| **M2 due** | 
 | Feb 5  | [Documenting behavior.](https://github.com/SENG480-18/course/blob/master/lectures/8-behavior.md) [*Technical writing skills (30 mins)*](https://github.com/SENG480-18/course/blob/master/lectures/Technical%20Writing%20FINAL.pptx)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | |
-| Feb 8  | Mid-term project status updates | | || 
+| Feb 8  | Mid-term project status updates. [Exam notes](https://github.com/SENG480-18/course/blob/master/lectures/Admin.md). | | || 
 | Feb 11 | | | |  **assignment 1 due midnight** | 
 | Feb 12 | Reading Break | | |
 | Feb 15 | Reading Week | | |
