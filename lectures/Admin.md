@@ -5,11 +5,41 @@ author: Neil Ernst
 
 *This will be an ongoing set of admin notes and policy releases.*
 
+# 2/8/18
 
-# 1/8/17
+Assignment 1 is now due Sunday at midnight.
+
+We will spend 30 minutes or so listening to project updates.
+
+By this point in the term you should have the following done:
+
+- good sense of stakeholders, and the project business goals
+- understanding of underlying architecture drivers
+- have the code running and installed on everyone's machine
+- have 2-3 people who have a deep knowledge of what the components of the codebase are. Here is an example.
+- be starting to select key views you want to present for M3/4. (Service? Client Server? How would we characterize the architecture style?)
+- take the scenarios you identified in M2 and begin walking through the architecture. How would it work? 
+- identify some obvious use cases to trace the behavior of the system (e.g. login, simple robot task, running a ML training run)
+- use tools: cloc, Understand, Codescene
+
+## Updates
+1. what is the project you are working on and why is it interesting.
+2. how are you making progress on the code understanding: tools, work assignment, compile/run. 
+3. any problems you are having or need help with (technical)
+
+After the presentations we will discuss the midterm, and finish class with a peer evaluation exercise.
+
+## Midterm:
+- 4 questions, 2 read code/read diagram, 2 read a case. Choose one of each.
+- long answer/diagramming questions.
+- read code in Java or Python, read diagrams (possibly UML, always with a key)
+- know business rules, architecture drivers, quality attribute scenarios, module and C&C views, and behavior models.
+- open textbook and notes. No phones/laptops.
+
+# 1/8/18
 - Slack and Github
 - Joining and leaving class - do it soon so teams can stabilize
-- Behavior - devices are fine, but they should be used for class - Slack, checkng references, etc. Please take convos outside if you have to chat/answer phone/check Facebook. Incidentally I read that the average worker checks social media 3x an hour which is bananas. 
+- Behavior - devices are fine, but they should be used for class - Slack, checking references, etc. Please take convos outside if you have to chat/answer phone/check Facebook. Incidentally I read that the average worker checks social media 3x an hour which is bananas. 
 - I want to start on time. If you miss a bus, no problem, but don't make it a habit.
 - Mental health and respect. This class will be conducted like I would expect any workplace to function: respect for each other's opinions and ideas. The UVIC and CSC department policies will be applied where necessary.
 - There aren't stupid questions. If you come to my office, or ask me in class, I promise to try my best to respect what you are saying and answer no matter what the question. I may not have an answer though.
@@ -47,3 +77,4 @@ Couch potatoes are more interested in hanging with friends or watching tv than c
 
 # References
 1. "Turning Student Groups into Effective Teams", Barbara Oakley, Rebecca Brent, Richard M. Felder, Imad Elhajj, Journal of Student Centered Learning 2(1) 2004
+
