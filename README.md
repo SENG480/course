@@ -24,12 +24,12 @@ The following schedule is subject to change, and will change.
 | Feb 11 | | | |  **assignment 1 due midnight** | 
 | Feb 12 | Reading Break | | |
 | Feb 15 | Reading Week | | |
-| Feb 19 | Group work in class - Omar leads | | | **M3 due** |
-| Feb 22 | Class cancelled - Neil away | |  | |
+| Feb 19 | Group work in class - Omar leads | | |  |
+| Feb 22 | Class cancelled - Neil away | |  |**M3 due** |
 | Feb 26 | Midterm | | | **Midterm** |
 | Mar 1 | *Industry lecture - model driven development* | | |
-| Mar 5  |  API and Interface documentation. User centric docs. | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |  **M4 due** |
-| Mar 8 | Microservice styles. | || |
+| Mar 5  |  API and Interface documentation. User centric docs. | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
+| Mar 8 | Microservice styles. | || **M4 due** |
 | Mar 12 | Documenting Ops | | <!--RW text has chap 21 ; allocation views; Len's book --> |
 | Mar 15 | Architecture analysis | | ch 21 | |
 | Mar 19 | Architecture analysis | | ch 21 | **M5 due** |
