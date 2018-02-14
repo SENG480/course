@@ -80,23 +80,53 @@ Due in Github by **Feb 1**
 - Quality of scenarios.
 
 ## 3. Module View (20%)
+A [module view](https://github.com/SENG480-18/course/blob/master/lectures/5-modules.md) (see Chapter 18 in the text) describes implementation units of the system. In this milestone, you are to create a software architecture view that shows the module structure of your system. Your deliverable will be a Markdown document that follows the template described in Section 18.6 of the text. 
+
+The purpose of this document is to support analysis of some of the key quality attributes you identified in Milestone 2. The reader will be someone who is not very familiar with the code or project, so be sure to explain it to an interested outsider (e.g. someone who just joined the dev team).
+
+Your deliverable should be laid out and contain material very similar to [this one from the SEI](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View).
+
+### Suggested Steps
+
+1. Identify QAS that pertain to implementation units and responsibilities. Some obvious categories include modifiability, portability, use of 3rd party frameworks.
+2. Choose a view type that supports analysis of these QAS. Some of the view types we discussed were Layers, Uses, Data Models (see lecture notes). Others include Decomposition and Generalization (is-a).
+3. Create a primary presentation of that view (the main diagram). Remember the key. Please use a tool of some kind to create the diagram. I suggest Visio, Powerpoint, Omnigraffle, or some of the open source alternatives. As you do this create the element catalog describing each element/relation.
+4. Outline the context diagram for that view, using the same 'language' (i.e., for a 'uses' diagram, the context shows the external elements 'used').
+5. Document the view's key behavioral questions in a [behavior diagram](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680). For example, you might want to show the way in which login code interacts with a 3rd party authentication framework.
+6. Give 2 important interfaces for this view. We have not discussed interface notations yet, so this element **will be for bonus marks**. You can read the [SEI whitepaper for the details](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf).
+7. Typically one includes a variability guide, but we will skip this section. A variability guide describes how and why the view might change.
+8. Finally, provide at least 500 words of rationale explaining why you think the designers organized the system's modules this way. You should explain this with specific reference to the quality attribute scenarios in M2.
 
 ### Deadline
-Due in Github by **Feb 19**.
+Due in Github by <s>Feb 19</s>**Feb 22**.
 
 ### Deliverables
-A fully worked module view according to the SEI view templates. Includes interface and behavior documentation.
+A fully worked module view according to the SEI view templates. Includes interface and behavior documentation. Deliver this as a Markdown document in your repository.
 
 ### Marking Guide
+- all required sections are present and well-organized. Include a table of contents (see [this tool](https://github.com/jonschlinkert/markdown-toc)).
+- view's primary presentation (diagram) is thorough and understandable. This means key elements are labeled, relations are typed, color is used appropriately. Use of UML or other diagram notations is not mandatory. 
+- view and element catalog answers key analysis questions implied by QAS (M2).
+- behavior diagram is appropriate and clearly answers important questions from the QAS.
+- rationale is well-reasoned and any obvious assumptions are documented.
+
+### Relevant Readings
+1. [Architecture Reconstruction of J2EE Applications: Generating Views from the Module Viewtype](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2003_004_001_14186.pdf) Liam O' Brien Vorachat Tamarree. 2003. *Describes a case study of generating module views from an existing system*
+2. [A7e Case Study](http://www.informit.com/content/images/9780321815736/downloads/Bass_2E_ch03_CaseStudy.pdf). *From the 2nd edition, this case study shows how a module decomposition and uses views can answer QAS questions.* 
+3. [SEI example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View). *A hypertext example of a fully worked out module view (and other parts of the documentation package).*
 
 ## 4. Component and Connector View (20%)
 
+Like the module view in M3, choose a C&C view to answer important questions from your QAS in M2. Deliverables will be identical to M3, except your primary presenation will be a C&C view (Pipe-Filter, Client-Server, Service, and so on.)
+
 ### Deadline
-Due in Github by **March 5**.
+Due in Github by <s>Mar 5</s>**March 8**.
 
 ### Deliverables
 A fully worked C&C view according to the SEI view templates. Includes interface and behavior documentation.
+
 ### Marking Guide
+Identical to M3. 
 
 ## 5. Code Quality and Technical Debt (15%)
 Assess your project's code quality using automated tools like BetterCodeHub, Sonarqube, CodeScene.
