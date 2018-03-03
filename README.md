@@ -35,8 +35,8 @@ The following schedule is subject to change, and will change.
 | Mar 19 | Architecture analysis | | ch 21 | **M5 due** |
 | Mar 22 | *Industry lecture - agile teams and architecture* | | |
 | Mar 26 | Technical debt | | | |
-| Mar 29 | (float) | | | |
-| Apr 2 | Project presentation | | | |
+| Mar 29 | Project presentations | | | |
+| Apr 2 | Stat Holiday | | | |
 | Apr 5 | Project presentation | | | **M6 and M7 due in repo**  |
 | Apr 10 | No class ||| **Grad report due** |
 

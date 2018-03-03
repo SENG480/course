@@ -117,7 +117,9 @@ A fully worked module view according to the SEI view templates. Includes interfa
 
 ## 4. Component and Connector View (20%)
 
-Like the module view in M3, choose a C&C view to answer important questions from your QAS in M2. Deliverables will be identical to M3, except your primary presenation will be a C&C view (Pipe-Filter, Client-Server, Service, and so on.)
+Like the module view in M3, choose a C&C view to answer important questions from your QAS in M2. Deliverables will be identical to M3, except your primary presentation will be a C&C view (Pipe-Filter, Client-Server, Service, and so on.)
+
+Note in particular the aspects of M3 that you lost marks on. In general, this was typically having a primary presentation that was much too complex; failing to correctly link elements in the Github source code to the diagram; and failing to show how the view can answer key questions in your QAS. Remember, your task is to simplify the details in the codebase so I can understand it.
 
 ### Deadline
 Due in Github by <s>Mar 5</s>**March 8**.
@@ -126,7 +128,7 @@ Due in Github by <s>Mar 5</s>**March 8**.
 A fully worked C&C view according to the SEI view templates. Includes interface and behavior documentation.
 
 ### Marking Guide
-Identical to M3. 
+Identical to M3.  No bonus marks. Ultimately I need to be convinced your team has a good understanding of important run-time functionality of your system. A good way to do this is to get the system running and trace a simple end-to-end run of core parts of the code. For example, in Toyplot I might walk through a simple tutorial and explain how each component in Toyplot gets called in turn to get a plot displayed. Running tests is another way to simulate this. 
 
 ## 5. Code Quality and Technical Debt (15%)
 Assess your project's code quality using automated tools like BetterCodeHub, Sonarqube, CodeScene.
