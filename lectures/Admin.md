@@ -5,6 +5,12 @@ author: Neil Ernst
 
 *This will be an ongoing set of admin notes and policy releases.*
 
+# 3/5/18
+- The group presentation dates need changed.
+- Let's sort out what is left and what we should do wrt presentation and final report.
+- M4 has to include interface docs and variability notes.
+- Any questions about M3 marks? I will have to do another lecture after class but will be around the remainder of the day.
+
 # 2/8/18
 
 Assignment 1 is now due Sunday at midnight.

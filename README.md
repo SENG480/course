@@ -28,13 +28,13 @@ The following schedule is subject to change, and will change.
 | Feb 22 | Class cancelled - Neil away | |  |**M3 due** |
 | Feb 26 | Midterm | | | **Midterm** |
 | Mar 1 | *Industry lecture - model driven development* | | |
-| Mar 5  |  API and Interface documentation. User centric docs. | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
-| Mar 8 | Microservice styles. | || **M4 due** |
+| Mar 5  |  [API and Interface documentation](https://github.com/SENG480-18/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
+| Mar 8 | Technical Debt and Metrics | || **M4 due** |
 | Mar 12 | Documenting Ops | | <!--RW text has chap 21 ; allocation views; Len's book --> |
 | Mar 15 | Architecture analysis | | ch 21 | |
 | Mar 19 | Architecture analysis | | ch 21 | **M5 due** |
 | Mar 22 | *Industry lecture - agile teams and architecture* | | |
-| Mar 26 | Technical debt | | | |
+| Mar 26 | Microservice styles | | | |
 | Mar 29 | Project presentations | | | |
 | Apr 2 | Stat Holiday | | | |
 | Apr 5 | Project presentation | | | **M6 and M7 due in repo**  |
