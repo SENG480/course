@@ -117,10 +117,11 @@ A fully worked module view according to the SEI view templates. Includes interfa
 
 ## 4. Component and Connector View (20%)
 
-Like the module view in M3, choose a C&C view to answer important questions from your QAS in M2. Deliverables will be identical to M3, except your primary presentation will be a C&C view (Pipe-Filter, Client-Server, Service, and so on.)
+Like the module view in M3, choose a C&C view to answer important questions from your QAS in M2. Deliverables will be identical to M3, except your primary presentation will be a C&C view (Pipe-Filter, Client-Server, Service, and so on.) You will also include interface documentation and a short variability guide.
 
 Note in particular the aspects of M3 that you lost marks on. In general, this was typically having a primary presentation that was much too complex; failing to correctly link elements in the Github source code to the diagram; and failing to show how the view can answer key questions in your QAS. Remember, your task is to simplify the details in the codebase so I can understand it.
 
+Focus on a single quality attribute scenario from M2, and make sure your diagram explains that. 
 ### Deadline
 Due in Github by <s>Mar 5</s>**March 8**.
 
