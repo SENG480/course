@@ -29,7 +29,7 @@ The following schedule is subject to change, and will change.
 | Feb 26 | Midterm | | | **Midterm** |
 | Mar 1 | *Industry lecture - model driven development* | | |
 | Mar 5  |  [API and Interface documentation](https://github.com/SENG480-18/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
-| Mar 8 | Technical Debt and Metrics | || **M4 due** |
+| Mar 8 | [Technical Debt and Metrics](https://github.com/SENG480-18/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due** |
 | Mar 12 | Documenting Ops | | <!--RW text has chap 21 ; allocation views; Len's book --> |
 | Mar 15 | Architecture analysis | | ch 21 | |
 | Mar 19 | Architecture analysis | | ch 21 | **M5 due** |

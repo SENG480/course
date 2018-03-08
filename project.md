@@ -132,16 +132,28 @@ A fully worked C&C view according to the SEI view templates. Includes interface 
 Identical to M3.  No bonus marks. Ultimately I need to be convinced your team has a good understanding of important run-time functionality of your system. A good way to do this is to get the system running and trace a simple end-to-end run of core parts of the code. For example, in Toyplot I might walk through a simple tutorial and explain how each component in Toyplot gets called in turn to get a plot displayed. Running tests is another way to simulate this. 
 
 ## 5. Code Quality and Technical Debt (15%)
-Assess your project's code quality using automated tools like BetterCodeHub, Sonarqube, CodeScene.
+Assess your project's code quality using automated tools like Pylint, FindBugs, CppLint, Sonarqube, CodeScene. The last two are more tricky to configure so start early. Then write a report documenting what you have found, and any possible technical debt the project might be facing.
+
+### Suggested steps
+By now you ought to have a good grasp of the internal structure of your projects, and some idea of what exactly its architecture is. Recall from class lectures that *technical debt* reflects the short-term decisions with potential high longer term costs.
+
+1. Run one of the tools suggested above; feel free to find a different one (but let me know). 
+2. Search the project's issue tracker looking for shortcuts; good keywords include "technical debt" and "tradeoff". You can likely think of others.
+3. Search the project's code for instances of "Fixme", "Hack", etc. Keep in mind, however, that we are really looking for *design* flaws, not just bad coding practice.
+4. Have one or two team members report on the code quality tool report. Read the report, and summarize what you find. This should be prepared as though you were giving a 10 min summary to an executive. 
+5. Other team mates should combine the output of steps 2/3 and their knowledge of the design from previous milestones, in order to report on possible design problems due to technical debt. Make sure your reporting uses evidence from the code/issues/other docs to make the case. Nearly every project maintainer would love more time to just refactor the codebase, so figure out where they would spend that time.
 
 ### Deadline
 Due in Github by **March 19**.
 
 ### Deliverables
-1. Code quality report.
-2. Based on your architecture documents, analyze potential technical debt in the project. Report at least 3 potential shortcuts that might have long-term consequences.
+1. Code quality report. Include the output of the tool, plus your summary of the results.
+2. Based on your architecture documents, analyze potential technical debt in the project. Report at least 2 potential shortcuts or design tradeoffs that might have long-term consequences.
 
 ### Marking Guide
+- insightfulness of your analysis
+- plausibility of the design debt you identified
+- 2% project bonus for using SonarQube and pointing me to a Sonarqube instance
 
 ## 6. Final Presentation and Report  (10%)
 In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references).
@@ -168,13 +180,10 @@ Presentation must be attended by all group members, all of whom may be asked que
 Due in Github by **midnight Apr 6**.
 
 ### Deliverables
-Link to a pull request for your case study, showing an improvement.
+Link to a pull request for your case study, showing an improvement. The PR does not need to be accepted.
 
 ### Marking Guide
 Silly or trivial pull requests will lose marks. It does not have to be complex, but does have to demonstrate you understand the project and are not just annoying the maintainers.
-
-# Educational Objectives
-
 
 # Helpful Links
 * [Student's Guide to SE projects](http://www.cdf.toronto.edu/~csc301h/fall/csc301.pdf) 
