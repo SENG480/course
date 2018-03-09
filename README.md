@@ -30,14 +30,14 @@ The following schedule is subject to change, and will change.
 | Mar 1 | *Industry lecture - model driven development* | | |
 | Mar 5  |  [API and Interface documentation](https://github.com/SENG480-18/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
 | Mar 8 | [Technical Debt and Metrics](https://github.com/SENG480-18/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due** |
-| Mar 12 | Documenting Ops | | <!--RW text has chap 21 ; allocation views; Len's book --> |
-| Mar 15 | Architecture analysis | | ch 21 | |
-| Mar 19 | Architecture analysis | | ch 21 | **M5 due** |
+| Mar 12 | Evaluating Docs | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei) |
+| Mar 15 | Architecture analysis | | ch 21 ||
+| Mar 19 | Documenting Ops  | | <!--RW text has chap 21 ; allocation views; Len's book -->  | **M5 due** |
 | Mar 22 | *Industry lecture - agile teams and architecture* | | |
 | Mar 26 | Microservice styles | | | |
-| Mar 29 | Project presentations | | | |
+| Mar 29 | Project presentations Groups 1,2,3,5| | | |
 | Apr 2 | Stat Holiday | | | |
-| Apr 5 | Project presentation | | | **M6 and M7 due in repo**  |
+| Apr 5 | Project presentation Groups 4,6,7,8 | | | **M6 and M7 due in repo**  |
 | Apr 10 | No class ||| **Grad report due** |
 
 # Syllabus
