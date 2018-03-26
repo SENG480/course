@@ -156,10 +156,34 @@ Due in Github by **March 19**.
 - 2% project bonus for using SonarQube and pointing me to a Sonarqube instance
 
 ## 6. Final Presentation and Report  (10%)
-In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references).
+In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references). Not everyone needs to present, but everyone needs to work on the milestone.
+
+### Presentation Schedule
+* Thursday March 29th (Groups 1, 2, 3, 5)
+* Thursday April 5th (Groups 4, 6, 7, 8)
+
+### Presentation Outline
+* Introduction (1-2 minutes)
+	- Business goals, elevator pitch to set context and why its cool
+* QAS (1-2 minutes)
+	- QA, scenarios, present utility tree here
+* Technical content (7-8 minutes)
+	- Brief technical overview: explain what language it is written in, key drivers and constraints
+	- Implementation/ module view (M3)
+	- C&C View (M4)
+* Technical Debt and Quality (1-2 minutes)
+* Reflection (1-2 minutes)
+	- Challenges
+	- What worked well
+* Questions
+
+### Other aspects to keep in mind
+* Audience: technical people
+* VGA adaptor
+* Projector not widescreen
 
 ### Deadline
-Due in Github by **Apr 6**. Presentation in class either Apr 2 or 5.
+Due in Github by **Apr 6**. Presentation in class either Mar 29 or Apr 5.
 
 ### Deliverables
 Use the GitBook toolchain to ensure your chapter compiles to something readable on the site. 
