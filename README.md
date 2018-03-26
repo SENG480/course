@@ -34,7 +34,7 @@ The following schedule is subject to change, and will change.
 | Mar 15 | [Architecture analysis](https://github.com/SENG480-18/course/blob/master/lectures/12-analysis.md) | | ch 21 ||
 | Mar 19 | [Documenting Ops](https://github.com/SENG480-18/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
 | Mar 22 | *Industry lecture - agile teams and architecture* | | **M5 due** |
-| Mar 26 | [Microservice styles; the latest research](https://github.com/SENG480-18/course/blob/master/lectures/14-latest.md) | | | |
+| Mar 26 | [Microservice styles; the latest research](https://github.com/SENG480-18/course/blob/master/lectures/14-new.md) | | | |
 | Mar 29 | Project presentations Groups 1,2,3,5| | | |
 | Apr 2 | Stat Holiday | | | |
 | Apr 5 | Project presentation Groups 4,6,7,8 | | |  |
