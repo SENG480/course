@@ -144,7 +144,7 @@ By now you ought to have a good grasp of the internal structure of your projects
 5. Other team mates should combine the output of steps 2/3 and their knowledge of the design from previous milestones, in order to report on possible design problems due to technical debt. Make sure your reporting uses evidence from the code/issues/other docs to make the case. Nearly every project maintainer would love more time to just refactor the codebase, so figure out where they would spend that time.
 
 ### Deadline
-Due in Github by **March 19**.
+Due in Github by **March 22**.
 
 ### Deliverables
 1. Code quality report. Include the output of the tool, plus your summary of the results.
