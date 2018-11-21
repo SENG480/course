@@ -7,7 +7,7 @@ Due: **Tues, Apr 10 11:59pm** as a Github commit. We mark the last commit unless
 Note:
 
 * Assignments are to be completed individually.
-* Format your submission as a PDF document. Note that tools such as Pandoc allow you to write in Markdown (i.e. what this document was created in) and "compile" your text to a PDF.
+* Format your submission as a Markdown document. 
 
 ## Presentation Guidelines
 
