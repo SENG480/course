@@ -13,11 +13,11 @@ Your team gets to choose the project you will work on (subject to some restricti
 - **M0.** team formation and Github (0%, -10 if not done)
 - **M1.** identify project stakeholders and business goals (5%)
 - **M2.** identify architecturally significant requirements and utility tree (10%)
-- **M3.** module view (20%)
+- **M3.** module view (25%)
 - **M4.** C&C view (20%)
 - **M5.** assess project code quality and technical debt (15%)
-- **M6.** present report in class, deliver final chapter proof-edited and well organized (10%)
-- **M7**: using your knowledge of the project, submit a pull request that improves the project. (15%)
+- **M6.** present report in class, deliver final chapter proof-edited and well organized (5%)
+- **M7**: using your knowledge of the project, submit a pull request that improves the project. (20%)
 
 ## Teams
 
@@ -41,7 +41,7 @@ Note that since we are *documenting and communicating*, good technical writing p
 
 ## 0. Github (-10% if not done)
 ### Deadline
-Jan 15.
+Jan 24.
 
 ### Deliverables
 - Create a repository using the Github Classroom link
@@ -55,7 +55,7 @@ Simple. Do the above.
 This deliverable will serve as an introduction to the project you have chosen to focus on. You will read project documents and related material (e.g., StackOverflow) to get a sense for who the stakeholders are, and what the project wants to accomplish.
 
 ### Deadline
-This is due in Github **midnight Jan 22.** 
+This is due in Github **midnight Feb 1.** 
 
 ### Deliverables
 1. Identify stakeholders for the system you chose. Complete a [stakeholder profile table](https://www.viewpoints-and-perspectives.info/home/stakeholders/):
@@ -68,7 +68,7 @@ This is due in Github **midnight Jan 22.**
 ## 2. Architecturally significant requirements (ASRs) and utility tree (10%)
 
 ### Deadline
-Due in Github by **Feb 1**
+Due in Github by **Feb 7**
 
 ### Deliverables
 1. The list of ASRs
@@ -98,7 +98,7 @@ Your deliverable should be laid out and contain material very similar to [this o
 8. Finally, provide at least 500 words of rationale explaining why you think the designers organized the system's modules this way. You should explain this with specific reference to the quality attribute scenarios in M2.
 
 ### Deadline
-Due in Github by <s>Feb 19</s>**Feb 22**.
+Due in Github by **Mar 4**.
 
 ### Deliverables
 A fully worked module view according to the SEI view templates. Includes interface and behavior documentation. Deliver this as a Markdown document in your repository.
@@ -123,7 +123,7 @@ Note in particular the aspects of M3 that you lost marks on. In general, this wa
 
 Focus on a single quality attribute scenario from M2, and make sure your diagram explains that. 
 ### Deadline
-Due in Github by <s>Mar 5</s>**March 8**.
+Due in Github by **March 14**.
 
 ### Deliverables
 A fully worked C&C view according to the SEI view templates. Includes interface and behavior documentation.
@@ -144,7 +144,7 @@ By now you ought to have a good grasp of the internal structure of your projects
 5. Other team mates should combine the output of steps 2/3 and their knowledge of the design from previous milestones, in order to report on possible design problems due to technical debt. Make sure your reporting uses evidence from the code/issues/other docs to make the case. Nearly every project maintainer would love more time to just refactor the codebase, so figure out where they would spend that time.
 
 ### Deadline
-Due in Github by **March 22**.
+Due in Github by **March 21**.
 
 ### Deliverables
 1. Code quality report. Include the output of the tool, plus your summary of the results.
@@ -183,7 +183,7 @@ In class presentation of ~15 minutes; final report polished and cleaned up (e.g.
 * Projector not widescreen
 
 ### Deadline
-Due in Github by **Apr 6**. Presentation in class either Mar 29 or Apr 5.
+Due in Github by **Apr 5**. Presentation in class either Mar 28 or Apr 1.
 
 ### Deliverables
 Use the GitBook toolchain to ensure your chapter compiles to something readable on the site. 
@@ -201,7 +201,7 @@ Presentation must be attended by all group members, all of whom may be asked que
 ## 7. Pull Request (15%)
 
 ### Deadline
-Due in Github by **midnight Apr 6**.
+Due in Github by **midnight Apr 5**.
 
 ### Deliverables
 Link to a pull request for your case study, showing an improvement. The PR does not need to be accepted.
