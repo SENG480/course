@@ -13,7 +13,7 @@ The following schedule is subject to change, and will change.
 | Jan 7  | Intro; introductions; Project outlined. [What is Software Architecture](https://github.com/SENG480/course/blob/master/lectures/1-intro.md)? | | text chapter 1 | |
 | Jan 10  | [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md). | | text chapter 2 | |
 | Jan 14 | No class || |
-| Jan 17 | No class || |
+| Jan 17 | Omar - Github/Git tutorial || |
 | Jan 21 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
 | Jan 24 | [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). Team kickoff | | text chapter 16  | **M0 due** |
 | Jan 28 | More on Requirements and Scenarios • Project work |||
@@ -22,10 +22,10 @@ The following schedule is subject to change, and will change.
 | Feb 7 | [Architecture and Design](https://github.com/SENG480/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17 | **M2 due** | |
 | Feb 11 | Reading Week | | |
 | Feb 14 | Reading Week | | |
-| Feb 18 | Mid-term project status updates. [Exam notes](https://github.com/SENG480/course/blob/master/lectures/Admin.md). | | A1 due ||
-| Feb  21 | [Documenting behavior.](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | |
+| Feb 18 | Mid-term project status updates. [Exam notes](https://github.com/SENG480/course/blob/master/lectures/Admin.md). | |  |**A1 due**|
+| Feb  21 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | |
 | Feb 25 | Midterm | | | **Midterm** |
-| Feb 28 | *Industry lecture* | | |
+| Feb 28 | TBD | | |
 | Mar 4  |  [API and Interface documentation](https://github.com/SENG480/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
 | Mar 7 | [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due** |
 | Mar 11 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei) |
