@@ -10,7 +10,7 @@ Your team gets to choose the project you will work on (subject to some restricti
 
 ## Milestones
 
-- **M0.** team formation and Github (5%)
+- **M0.** team formation and Github (0%, -10 if not done)
 - **M1.** identify project stakeholders and business goals (5%)
 - **M2.** identify architecturally significant requirements and utility tree (10%)
 - **M3.** module view (20%)
@@ -39,7 +39,7 @@ Your final presentation will be an architecture presentation, of the system you 
 # Milestones
 Note that since we are *documenting and communicating*, good technical writing practices (spelling, grammar, organization, clarity) are always required and will be subject to lost marks if not followed. You can always reach out to the [Center for Academic Communication](https://www.uvic.ca/learningandteaching/home/home/centre/index.php) if you need extra assistance.
 
-## 0. Github (5%)
+## 0. Github (-10% if not done)
 ### Deadline
 Jan 15.
 
@@ -49,7 +49,7 @@ Jan 15.
 - update the Readme with your team's name, and 3 projects of interest.
 
 ### Marking Guide
-Simple. Do the above for full marks.
+Simple. Do the above.
 
 ## 1. Identifying project stakeholders and business goals (5%)
 This deliverable will serve as an introduction to the project you have chosen to focus on. You will read project documents and related material (e.g., StackOverflow) to get a sense for who the stakeholders are, and what the project wants to accomplish.
