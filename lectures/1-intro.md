@@ -1,7 +1,7 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 1
 Author: Neil Ernst
-Date: Jan 4, 2018
+Date: Jan 7, 2019
 ---
 
 # Introductions
@@ -14,7 +14,7 @@ This course has two main objectives. One---**Documenting**---is to prepare you t
 The second objective---**Understanding**---is to enable you to work on the opposite side. Given a software system, come up with intelligent questions and analysis to understand a) how it works b) what key requirements it satisfies c) what evidence supports that.
 
 # Course Format
-This course is divided into a project, worth 60%, a midterm, worth 15%, and assignment(s), worth 25%. We meet twice a week, bright and early. I intend to lecture for about 20-30 mins, then turn it over to a peer exercise for the next 20 minutes, and conclude with either more lectures or a summary. I am arranging a few guest lectures from architecture practitioners as well.
+This course is divided into a project, worth 50%, a midterm, worth 25%, and assignment(s), worth 15%. Participation will be marked as well and worth 10%. We meet twice a week. I intend to lecture for about 20-30 mins, then turn it over to a peer exercise for the next 20 minutes, and conclude with either more lectures or a summary. I am arranging a few guest lectures from architecture practitioners as well.
 
 # Project outline
 The main deliverable in this course is a major, term-long project you will do with 4 other students, in groups that I form. You will select a large, open source project, and generate a chapter-length document that completely describes the project's architecture. What exactly that comprises will be the subject of the lectures.
@@ -27,10 +27,11 @@ Group projects are best summarized by Dickens:
 
 We will go into detail about functioning well in groups, but you should not assume that your group's problems will be an excuse for poor performance. Turn the *winter of despair* into a *spring of hope* as early as you can.
 
+<!-- intros and background of students -->
+
 # Software Architecture - What Is It?
 
 (we brainstormed ideas on the blackboard)
-
 
 ## Definitions
 
