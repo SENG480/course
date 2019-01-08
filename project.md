@@ -54,7 +54,7 @@ Simple. Do the above.
 ## 1. Identifying project stakeholders and business goals (5%). Privacy and ethics report (5%).
 This deliverable will serve as an introduction to the project you have chosen to focus on. You will read project documents and related material (e.g., StackOverflow) to get a sense for who the stakeholders are, and what the project wants to accomplish.
 
-After that, you will examine project policies around privacy, security and ethics, and write a 2 page summary of this.
+After that, you will examine project policies around privacy, security and ethics, and write a 2 page summary of this. Use the ACM Code of Ethics](https://www.acm.org/code-of-ethics), assess how the system you are studying currently complies with this Code, and identify places where future ethical conflicts may arise.
 
 ### Deadline
 This is due in Github **midnight Feb 1.** 
