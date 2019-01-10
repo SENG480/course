@@ -20,12 +20,12 @@ The following schedule is subject to change, and will change.
 | Feb 1  | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md) | | text chapter 18 | **M1 due** |
 | Feb 4 | [Views part 2 - C&C](https://github.com/SENG480/course/blob/master/lectures/6-cc.md) | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 4 | | 
 | Feb 7 | [Architecture and Design](https://github.com/SENG480/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17 | **M2 due** | |
-| Feb 11 | Reading Week | | |
-| Feb 14 | Reading Week | | |
-| Feb 18 | Mid-term project status updates. [Exam notes](https://github.com/SENG480/course/blob/master/lectures/Admin.md). | |  |**A1 due**|
-| Feb  21 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | |
+| Feb 11 | Mid-term project status updates. [Exam notes](https://github.com/SENG480/course/blob/master/lectures/Admin.md). | |  |**A1 due**|
+| Feb  14 | TBD | |
+| Feb 18 | Reading Week | | |
+| Feb 21 | Reading Week | | |
 | Feb 25 | Midterm | | | **Midterm** |
-| Feb 28 | TBD | || |
+| Feb 28 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | || |
 | Mar 4  |  [API and Interface documentation](https://github.com/SENG480/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
 | Mar 7 | [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M3 due** |
 | Mar 11 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei) |

@@ -1,7 +1,7 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 2
 Author: Neil Ernst
-Date: Jan 8, 2018
+Date: Jan 10, 2019
 ---
 
 # Recall Our Definition
@@ -77,8 +77,23 @@ Anyway, Michael gives 7 reasons why we care about architecture in his book.
 6. **Avoid high-cost mistakes by focusing on the hard decisions**.
 7. **"The best architectures create options"**. We will talk about the idea of a "architecture runway" later in the course.
 
+## Why Architecture from SAIP: (Chapter 2)
+1. Enable system quality attributes
+2. Reason about change
+3. Predict system quality
+4. Enhance communication
+5. Carry early design decisions
+6. Constrain implementation
+7. Influence org structure
+8. Enable evolutionary prototyping
+9. Improve cost/schedule estimation
+10. Supply a transferable model
+11. Assemble components
+12. Restrict alternatives
+13. Provide training
+
 # Structures
-What structures do we care about (read: want to be able to reason and ask questions about) when we want to replace the Johnson Street Bridge? 
+What structures do we care about (read: want to be able to reason and ask questions about) when we want to replace a Bridge? 
 
 - **Physical structures** - can the bridge support traffic, not break down, not cost too much to maintain? 
 - **Transportation structures** - how much traffic can this thing manage? What types of traffic? Can boats get by?
@@ -88,6 +103,11 @@ What structures do we care about (read: want to be able to reason and ask questi
 - **Financial structures** - How much does it cost? What types of financing can we get? 
 
 What types of structures do we care about in building a reasonable large piece of software?
+
+In the SAIP approach, the main categories of software structures are:
+- module structures
+- component and connector (runtime, C&C) structures
+- allocation structures
 
 ## Implications
 * Systems have many (many) structures. We need to filter the ones we really care about.
