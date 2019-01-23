@@ -33,9 +33,10 @@ The following schedule is subject to change, and will change.
 | Mar 18 | [Documenting Ops](https://github.com/SENG480/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
 | Mar 21 | Doc Exercise in class | | | **M5 due** |
 | Mar 25 | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | |
-| Mar 28 | Project presentations Groups tbd | | | |
+| Mar 28 | TBD | | | |
 | Apr 1 |  Project presentation Groups tbd | | |  |
-| Apr 4 |  ||| **M6 and M7 due in repo** |
+| Apr 4 | Project presentations Groups tbd  || |
+| Apr 7 | | **M6 and M7 due in repo** | || 
 | Apr 12 |  ||| **Grad report due** |
 
 # Syllabus

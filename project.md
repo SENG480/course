@@ -108,7 +108,7 @@ Your deliverable should be laid out and contain material very similar to [this o
 8. Finally, provide at least 500 words of rationale explaining why you think the designers organized the system's modules this way. You should explain this with specific reference to the quality attribute scenarios in M2.
 
 ### Deadline
-Due in Github by **Mar 4**.
+Due in Github by **Mar 7**.
 
 ### Deliverables
 A fully worked module view according to the SEI view templates. Includes interface and behavior documentation. Deliver this as a Markdown document in your repository.
@@ -169,8 +169,8 @@ Due in Github by **March 21**.
 In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references). Not everyone needs to present, but everyone needs to work on the milestone.
 
 ### Presentation Schedule
-* Thursday March 29th (Groups 1, 2, 3, 5)
-* Thursday April 5th (Groups 4, 6, 7, 8)
+* Monday Apr 1st  (Groups TBD )
+* Thursday April 4th (Groups TBD )
 
 ### Presentation Outline
 * Introduction (1-2 minutes)
@@ -193,7 +193,7 @@ In class presentation of ~15 minutes; final report polished and cleaned up (e.g.
 * Projector not widescreen
 
 ### Deadline
-Due in Github by **Apr 5**. Presentation in class either Mar 28 or Apr 1.
+Due in Github by **Apr 7**. Presentation in class either Apr 1 or Apr 4.
 
 ### Deliverables
 Use the GitBook toolchain to ensure your chapter compiles to something readable on the site. 
@@ -211,7 +211,7 @@ Presentation must be attended by all group members, all of whom may be asked que
 ## 7. Pull Request (15%)
 
 ### Deadline
-Due in Github by **midnight Apr 5**.
+Due in Github by **midnight Apr 7**.
 
 ### Deliverables
 Link to a pull request for your case study, showing an improvement. The PR does not need to be accepted.
