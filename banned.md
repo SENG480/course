@@ -94,14 +94,14 @@ GITHUB_AUTH_TOKEN=<Your_GitHub_Auth_Token_Here>
 
 # You'd probably prefer to pipe in a list here. 
 echo -e "typescript\nVS Code" |
-while IFS= read -r line
+while IFS= read -r name
     do
         RESPONSE=$(curl                                                     \
         --header "Authorization: bearer $GITHUB_AUTH_TOKEN"                 \
         --data                                                              \
         "{                                                                  \
             \"query\": \"query {                                            \
-                search(query: \\\"$line\\\", type: REPOSITORY, first: 1) {  \
+                search(query: \\\"$name\\\", type: REPOSITORY, first: 1) {  \
                     edges { node {                                          \
                         ... on Repository { url }                           \
                 } } } }\"                                                   \
@@ -110,7 +110,7 @@ while IFS= read -r line
         
         echo $RESPONSE                                                      \
             | grep -o 'https://[^"]*'                                       \
-            | awk -v line="$line" '{print "["line"]("$1")"}'                \
+            | awk -v name="$name" '{print "["name"]("$1")"}'                \
             >> banned-urls.txt;
 done
 ```
