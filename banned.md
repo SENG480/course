@@ -83,3 +83,34 @@
 | [xmage](https://github.com/magefree/mage)                                  | 2018 |
 | [Yarn](https://github.com/yarnpkg/yarn)                                    | 2017 |
 | [Youtube-DL](https://github.com/rg3/youtube-dl)                            | 2016 |
+
+Disclaimer: These links were auto-generated using the GitHub search API. As such, some of them may not point to the correct project. The script used to perform a search is below, use (modify) it to update this list in the future.
+
+```bash
+#!/bin/bash
+
+GITHUB_AUTH_TOKEN=<Your_GitHub_Auth_Token_Here>
+> banned-urls.txt; # Clear or create the output file.
+
+# You'd probably prefer to pipe in a list here. 
+echo -e "typescript\nVS Code" |
+while IFS= read -r line
+    do
+        RESPONSE=$(curl                                                     \
+        --header "Authorization: bearer $GITHUB_AUTH_TOKEN"                 \
+        --data                                                              \
+        "{                                                                  \
+            \"query\": \"query {                                            \
+                search(query: \\\"$line\\\", type: REPOSITORY, first: 1) {  \
+                    edges { node {                                          \
+                        ... on Repository { url }                           \
+                } } } }\"                                                   \
+        }"                                                                  \
+        https://api.github.com/graphql);
+        
+        echo $RESPONSE                                                      \
+            | grep -o 'https://[^"]*'                                       \
+            | awk -v line="$line" '{print "["line"]("$1")"}'                \
+            >> banned-urls.txt;
+done
+```
