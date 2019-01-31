@@ -15,13 +15,14 @@ The following schedule is subject to change, and will change.
 | Jan 14 | Omar - Github/Git tutorial || |
 | Jan 17 |  Group project meetings (in class) || |
 | Jan 21 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
-| Jan 24 | [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). Team kickoff | | text chapter 16  | **M0 due** |
-| Jan 28 | More on Requirements and Scenarios  |||
-| Feb 1  | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md) | | text chapter 18 | **M1 due** |
+| Jan 24 | [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). | | text chapter 16  | **M0 due** |
+| Jan 28 | Guest lecture - Dr. Rick Kazman  |||
+| Jan 31  | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md) | | text chapter 18 | **M1 due Feb 3** |
 | Feb 4 | [Views part 2 - C&C](https://github.com/SENG480/course/blob/master/lectures/6-cc.md) | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 4 | | 
 | Feb 7 | [Architecture and Design](https://github.com/SENG480/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17 *  [Exam notes](https://github.com/SENG480/course/blob/master/lectures/Admin.md) | **M2 due** | |
-| Feb 11 | Guest lecture: code navigation with Daniel Germán | |  ||
+| Feb 11 | Guest lecture: code navigation with Dr. Daniel Germán | |  ||
 | Feb 14 | Project & assignment working session || **A1 due** |
+| Feb 15 | | | Grad students send in proposed topic |
 | Feb 18 | Reading Week | | |
 | Feb 21 | Reading Week | | |
 | Feb 25 | Midterm | | | **Midterm** |
