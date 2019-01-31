@@ -44,7 +44,7 @@ If you prefer to build things, pick a topic below, and prepare a  prototype tool
 * For engineering focus, a design doc + a tool Omar and I can use. We will schedule a demo time in the week following end of term. 
 
 # Marking Rubric
-The report will be judged on the basis of scientific quality (novel topic, validated conclusions, proper sceitnfic writing style).
+The report will be judged on the basis of scientific quality (novel topic, validated conclusions, proper scientific writing style).
 
 The tool will be judged on novelty, software quality (both internal (architecture/design) and external (usability, usefulness)) and documentation support.
 
