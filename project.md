@@ -11,7 +11,7 @@ Your team gets to choose the project you will work on (subject to some restricti
 ## Milestones
 
 - **M0.** team formation and Github (0%, -10 if not done)
-- **M1.** identify project stakeholders and business goals (5%). Report on project ethics and privacy. 
+- **M1.** identify project stakeholders and business goals (5%). Report on project ethics and privacy. (5%) 
 - **M2.** identify architecturally significant requirements and utility tree (10%)
 - **M3.** module view (20%)
 - **M4.** C&C view (20%)
@@ -54,14 +54,14 @@ Simple. Do the above.
 ## 1. Identifying project stakeholders and business goals (5%). Privacy and ethics report (5%).
 This deliverable will serve as an introduction to the project you have chosen to focus on. You will read project documents and related material (e.g., StackOverflow) to get a sense for who the stakeholders are, and what the project wants to accomplish.
 
-After that, you will examine project policies around privacy, security and ethics, and write a 2 page summary of this. Use the ACM Code of Ethics](https://www.acm.org/code-of-ethics), assess how the system you are studying currently complies with this Code, and identify places where future ethical conflicts may arise.
+After that, you will examine project policies around privacy, security and ethics, and write a 2 page summary of this. Use the [ACM Code of Ethics](https://www.acm.org/code-of-ethics), assess how the system you are studying currently complies with this Code, and identify places where future ethical conflicts may arise.
 
 ### Deadline
 This is due in Github **midnight Feb 1.** 
 
 ### Deliverables
 1. Identify stakeholders for the system you chose. Complete a [stakeholder profile table](https://www.viewpoints-and-perspectives.info/home/stakeholders/):
-2. Create a list of business goals (see chap 16) for this system. We will use those in M2 as well.
+2. Create a list of at least 5 business goals (see chap 16) for this system. We will use those in M2 as well.
 3. 2 page report on privacy and ethics concerns for this project:
    1. Title
    2. Introduction
