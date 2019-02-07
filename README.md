@@ -19,11 +19,11 @@ The following schedule is subject to change, and will change.
 | Jan 28 | Guest lecture - Dr. Rick Kazman  |||
 | Jan 31  | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md) | | text chapter 18 | **M1 due Feb 3** |
 | Feb 4 | [Views part 2 - C&C](https://github.com/SENG480/course/blob/master/lectures/6-cc.md) | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 4 | | 
-| Feb 7 | [Architecture and Design](https://github.com/SENG480/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17 *  [Exam notes](https://github.com/SENG480/course/blob/master/lectures/Admin.md) |  | |
-| Feb 8 | | |**M2 due**||
+| Feb 7 | [Architecture and Design](https://github.com/SENG480/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17  |  | |
+| Feb 8 | | | |**M2 due**||
 | Feb 11 | Guest lecture: code navigation with Dr. Daniel Germán | |  ||
 | Feb 14 | Project & assignment working session || |
-| Feb 15 | | | Grad students send in proposed topic. Undergrad  **A1 due** |
+| Feb 15 | | | | Grad students send in proposed topic. Undergrad  **A1 due** |
 | Feb 18 | Reading Week | | |
 | Feb 21 | Reading Week | | |
 | Feb 25 | Midterm | | | **Midterm** |
@@ -38,7 +38,7 @@ The following schedule is subject to change, and will change.
 | Mar 28 | Project presentations Groups tbd | | | |
 | Apr 1 |  Project presentation Groups tbd | | |  |
 | Apr 4 |  TBD  || |
-| Apr 7 | | **M6 and M7 due in repo ** | || 
+| Apr 7 | || | **M6 and M7 due in repo** | 
 | Apr 12 |  ||| **Grad assignment due** |
 
 # Syllabus
