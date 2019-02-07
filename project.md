@@ -8,6 +8,9 @@ The course project is a semester long effort to apply the ideas behind code read
 
 Your team gets to choose the project you will work on (subject to some restrictions). In general the project must be *active* (daily commits), *moderately large* (>100 stars on GH, but not intractably complex), and *open-source*. Since other teams have done this type of course, you cannot select from the [banned project list](https://github.com/SENG480-18/course/blob/master/banned.md). This is to avoid annoying hard-working and under-compensated OSS maintainers.  
 
+## Dates
+See [the syllabus for all due dates](https://github.com/SENG480/course/blob/master/README.md). 
+
 ## Milestones
 
 - **M0.** team formation and Github (0%, -10 if not done)
@@ -41,7 +44,7 @@ Note that since we are *documenting and communicating*, good technical writing p
 
 ## 0. Github (-10% if not done)
 ### Deadline
-Jan 24.
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 - Create a repository using the Github Classroom link
@@ -57,7 +60,7 @@ This deliverable will serve as an introduction to the project you have chosen to
 After that, you will examine project policies around privacy, security and ethics, and write a 2 page summary of this. Use the [ACM Code of Ethics](https://www.acm.org/code-of-ethics), assess how the system you are studying currently complies with this Code, and identify places where future ethical conflicts may arise.
 
 ### Deadline
-This is due in Github **midnight Feb 1.** 
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 1. Identify stakeholders for the system you chose. Complete a [stakeholder profile table](https://www.viewpoints-and-perspectives.info/home/stakeholders/):
@@ -78,7 +81,7 @@ This is due in Github **midnight Feb 1.**
 ## 2. Architecturally significant requirements (ASRs) and utility tree (10%)
 
 ### Deadline
-Due in Github by **Feb 7**
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 1. The list of ASRs
@@ -108,7 +111,7 @@ Your deliverable should be laid out and contain material very similar to [this o
 8. Finally, provide at least 500 words of rationale explaining why you think the designers organized the system's modules this way. You should explain this with specific reference to the quality attribute scenarios in M2.
 
 ### Deadline
-Due in Github by **Mar 7**.
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 A fully worked module view according to the SEI view templates. Includes interface and behavior documentation. Deliver this as a Markdown document in your repository.
@@ -133,7 +136,7 @@ Note in particular the aspects of M3 that you lost marks on. In general, this wa
 
 Focus on a single quality attribute scenario from M2, and make sure your diagram explains that. 
 ### Deadline
-Due in Github by **March 14**.
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 A fully worked C&C view according to the SEI view templates. Includes interface and behavior documentation.
@@ -154,7 +157,7 @@ By now you ought to have a good grasp of the internal structure of your projects
 5. Other team mates should combine the output of steps 2/3 and their knowledge of the design from previous milestones, in order to report on possible design problems due to technical debt. Make sure your reporting uses evidence from the code/issues/other docs to make the case. Nearly every project maintainer would love more time to just refactor the codebase, so figure out where they would spend that time.
 
 ### Deadline
-Due in Github by **March 21**.
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 1. Code quality report. Include the output of the tool, plus your summary of the results.
@@ -169,8 +172,7 @@ Due in Github by **March 21**.
 In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references). Not everyone needs to present, but everyone needs to work on the milestone.
 
 ### Presentation Schedule
-* Monday Apr 1st  (Groups TBD )
-* Thursday April 4th (Groups TBD )
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Presentation Outline
 * Introduction (1-2 minutes)
@@ -193,7 +195,7 @@ In class presentation of ~15 minutes; final report polished and cleaned up (e.g.
 * Projector not widescreen
 
 ### Deadline
-Due in Github by **Apr 7**. Presentation in class either Apr 1 or Apr 4.
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 Use the GitBook toolchain to ensure your chapter compiles to something readable on the site. 
@@ -211,7 +213,7 @@ Presentation must be attended by all group members, all of whom may be asked que
 ## 7. Pull Request (15%)
 
 ### Deadline
-Due in Github by **midnight Apr 7**.
+See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
 
 ### Deliverables
 Link to a pull request for your case study, showing an improvement. The PR does not need to be accepted.
