@@ -26,8 +26,8 @@ The following schedule is subject to change, and will change.
 | Feb 15 | | | | Grad students send in proposed topic. Undergrad  **A1 due** |
 | Feb 18 | Reading Week | | |
 | Feb 21 | Reading Week | | |
-| Feb 25 | Midterm | | | **Midterm** |
-| Feb 28 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | || |
+| Feb 25 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1680&context=compsci) | || |
+| Feb 28 | Midterm | | | **Midterm** |
 | Mar 4  |  [API and Interface documentation](https://github.com/SENG480/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
 | Mar 7 | [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M3 due Mar 8** |
 | Mar 11 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei) |
