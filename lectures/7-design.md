@@ -149,3 +149,5 @@ There are three design concerns related to modifiability:
 1. Designing Software Architectures, Cervantes and Kazman, 2017.
 2. NASA in SpaceFlight, https://history.nasa.gov/computers/p114.htm
 3. Kurtz, Cynthia F.; Snowden, David J. (2003). "The new dynamics of strategy: Sense-making in a complex and complicated world" IBM Systems Journal. 42 (3): 462–483. doi:10.1147/sj.423.0462. 
+
+[^1]: https://en.wikipedia.org/wiki/Cynefin_framework
