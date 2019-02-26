@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 8 -- Documenting Behavior
 Author: Neil Ernst
-Date: Jan 29, 2018
 ---
 
 # What Is Behavior
