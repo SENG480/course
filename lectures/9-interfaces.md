@@ -40,6 +40,7 @@ Multiple actors may interact through an interface at the same time. Some interfa
 # SEI Interface template
 1. **Interface identity**---some obvious name. This is not easy; it is as hard as naming a method or an object. It should be memorable and perspicuous. 
 2. **Resources provided**:
+
 	a. Syntax: this is like a method signature. We can also use standards designed specifically for this, such as Interface Defn Languages (IDL) or Web Service Defn Languages (WSDL). Where would JSON or YAML or Protobuffers fit?
 	b. Semantics: effects of using the resource. Usage restrictions; pre/post conditions; values assigned; whether the resource changes or not (idempotence); new properties observed after the interface is used. We can use natural language, behavior diagrams, or formal languages (e.g. timing diagrams). As usual, there are tradeoffs of precision and cost. How important is it that you know what units you are getting trajectory fixes in?
 	c. Error handling: what happens when something goes wrong. E.g., does the resource revert back (rollback) to its initial state.
