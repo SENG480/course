@@ -29,15 +29,15 @@ The following schedule is subject to change, and will change.
 | Feb 25 | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) | || |
 | Feb 28 | Midterm | | | **Midterm** |
 | Mar 4  |  [API and Interface documentation](https://github.com/SENG480/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
-| Mar 7 | [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M3 due Mar 8** |
-| Mar 11 | Tentative: Guest lecture: code navigation with Dr. Daniel Germán | | |
-| Mar 14 | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | ch 21 | **M4 due Mar 15**|
-| Mar 18 | [Documenting Ops](https://github.com/SENG480/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
-| Mar 21 | Doc Exercise in class | | | **M5 due Mar 22** |
-| Mar 25 | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | |
-| Mar 28 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei) | |
-| Apr 1 |  In class Project presentations - UnderGrad groups. Grad groups only: Schedule with Neil / Omar | | |  |
-| Apr 4 |  no class in lieu of presentations during the week  || |
+| Mar 7 | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | ch 21 **M3 due Mar 10** |
+| Mar 11 | [Documenting Ops](https://github.com/SENG480/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
+| Mar 14 |  [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due Mar 17**|
+| Mar 18 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei)  | | | 
+| Mar 21 | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | **M5 due Mar 24** |
+| Mar 25 | Doc Exercise in class | | | |
+| Mar 28 | In class Project presentations | |
+| Apr 1 |  In class Project presentations | | |  |
+| Apr 4 |  no class  || |
 | Apr 7 | || | **M6 and M7 due in repo** | 
 | Apr 12 |  ||| **Grad assignment due** |
 
