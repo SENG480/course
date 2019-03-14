@@ -31,7 +31,7 @@ The following schedule is subject to change, and will change.
 | Mar 4  |  [API and Interface documentation](https://github.com/SENG480/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
 | Mar 7 | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | ch 21 **M3 due Mar 10** |
 | Mar 11 | [Documenting Ops](https://github.com/SENG480/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
-| Mar 14 |  [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due Mar 17**|
+| Mar 14 |  [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due Mar 17**|
 | Mar 18 | ¯\_(ツ)_/¯  | | | 
 | Mar 21 | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | **M5 due Mar 24** |
 | Mar 25 | Doc Exercise in class | | | |
