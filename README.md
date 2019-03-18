@@ -32,7 +32,7 @@ The following schedule is subject to change, and will change.
 | Mar 7 | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | ch 21 **M3 due Mar 10** |
 | Mar 11 | [Documenting Ops](https://github.com/SENG480/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
 | Mar 14 |  [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due Mar 17**|
-| Mar 18 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [Guidelines for AD reviews](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1285&context=sei)  | | | 
+| Mar 18 | [Evaluating Docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [A Structured Approach for Reviewing Architecture Documentation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.6497&rep=rep1&type=pdf) | | | 
 | Mar 21 | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | **M5 due Mar 24** |
 | Mar 25 | Doc Exercise in class | | | |
 | Mar 28 | In class Project presentations | |
