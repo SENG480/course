@@ -35,8 +35,8 @@ The following schedule is subject to change, and will change.
 | Mar 18 | [Human-centric docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [A Structured Approach for Reviewing Architecture Documentation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.6497&rep=rep1&type=pdf) | | | 
 | Mar 21 | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | **M5 due Mar 24** |
 | Mar 25 | Doc Exercise in class | | | |
-| Mar 28 | In class Project presentations | |
-| Apr 1 |  In class Project presentations | | |  |
+| Mar 28 | In class Project presentations: groups  2, 3, 7, 8, 11 | |
+| Apr 1 |  In class Project presentations: groups 1, 4, 6, 9, 10, 13 | | |  |
 | Apr 4 |  no class  || |
 | Apr 7 | || | **M6 and M7 due in repo** | 
 | Apr 12 |  ||| **Grad assignment due** |
