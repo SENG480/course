@@ -106,7 +106,7 @@ Potential deductions:
 # Milestone 6. /5
 
 ## Marking Guide
-- **5** marks for presentation, **5** for Gitbook formatted PR with final chapter material
+- **2.5** marks for presentation, **2.5** for Gitbook formatted PR with final chapter material
 - Presentation organization adequate
 - Presentation competently run
 - Presentation on time.
@@ -124,7 +124,7 @@ Potential deductions:
 
 -----
 
-# Milestone 7. /15
+# Milestone 7. /20
 
 ## Marking Guide
 - pull request is interesting and demonstrates knowledge of project architecture. 
