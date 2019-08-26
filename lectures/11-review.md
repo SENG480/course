@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 11 -- Useful Documentation
 Author: Neil Ernst
-Date: Mar 12, 2018
 ---
 
 # Human-centric docs
@@ -27,6 +26,7 @@ These views apply to all systems:
 * Decomposition
 * Uses
 * Data Model
+
 **Allocation views**
 * Deployment
 * Install
@@ -38,6 +38,7 @@ These views apply to some systems:
 * Generalization
 * Layered
 * Aspects
+
 **C&C views**
 * Pipe-and-Filter
 * Shared-Data

@@ -11,7 +11,7 @@ If you recall, most of our views consist of nodes (boxes) and edges (lines), spe
 What do you think interfaces help us understand? 
 
 Is this a good interface document (box and line)
-
+$$
 - how much data will be sent
 - what happens if something goes wrong
 - what data types we will use

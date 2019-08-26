@@ -5,38 +5,47 @@ Author: Neil Ernst
 ---
 
 # Schedule and Topics - Spring 2019
+The following schedule is subject to change. All deadlines and due dates listed here are the official dates. 
 
-The following schedule is subject to change, and will change.
+This semester I'm doing the schedule differently. Instead of detailed day by day schedules, I'll list the main modules, the slides, and then key dates. Modules are sequential, and I aim to do one module per week. If you miss a class, I assume you can figure out what you missed. If not, see your classmates. 
 
-| Module | Topics | Other Resources | Readings  | Deadlines |
-| ------ | --------------------------------------------------------- | --------- | ---------------- |------- |
-| | Intro; introductions; Project outlined. [What is Software Architecture](https://github.com/SENG480/course/blob/master/lectures/1-intro.md)? | | text chapter 1 | |
-| | [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md). | | text chapter 2 | |
-| | Omar - Github/Git tutorial || |
-||  Group project meetings (in class) || |
-| | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
-| | [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). | | text chapter 16  | **M0 due** |
-| | Guest lecture - Dr. Rick Kazman  |||
-| | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md) | | text chapter 18 | **M1 due Feb 3** |
-|| [Views part 2 - C&C](https://github.com/SENG480/course/blob/master/lectures/6-cc.md) | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 4 | | 
-|| [Architecture and Design](https://github.com/SENG480/course/blob/master/lectures/7-design.md) | [What is Architectural Design](http://www.informit.com/articles/article.aspx?p=2738304&seqNum=2) | text chapter 17  |  | |
-|  | | | |**M2 due**||
-| | Project & assignment working session || |
-| | | | | Grad students send in proposed topic. Undergrad  **A1 due** |
-| | [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) | || |
-| | Midterm | | | **Midterm** |
-||  [API and Interface documentation](https://github.com/SENG480/course/blob/master/lectures/9-interfaces.md).  | | [Interface documentation](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2002_004_001_13973.pdf) |   |
-| | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | ch 21 **M3 due ** |
-|| [Documenting Ops](https://github.com/SENG480/course/blob/master/lectures/13-ops.md)  | | <!--RW text has chap 21 ; allocation views; Len's book -->  |  |
-| |  [Technical Debt and Metrics](https://github.com/SENG480/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | **M4 due Mar 17**|
-| | [Human-centric docs](https://github.com/SENG480/course/blob/master/lectures/11-review.md) | | [A Structured Approach for Reviewing Architecture Documentation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.6497&rep=rep1&type=pdf) | | | 
-| | [Microservice styles; the latest research](https://github.com/SENG480/course/blob/master/lectures/14-new.md) | | | **M5 due Mar 24** |
-| | Doc Exercise in class | | | |
-| | In class Project presentations: groups  2, 3, 7, 8, 11 | |
-| |  In class Project presentations: groups 1, 4, 6, 9, 10, 13 | | |  |
-|  |  no class  || |
-|  | || | **M6 and M7 due in repo** | 
-|  |  ||| **Grad assignment due** |
+Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
+
+### Modules
+
+| Module | Topics | Other Resources | Readings  | 
+|---| --------------------------------------------------------- | --------- | ----------------|
+| 1 |   [What is Software Architecture?](https://github.com/SENG350/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
+| 2 |  [Software arch overview](https://github.com/SENG350/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/)| 
+| 3 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
+| 4 |  [Architecture Stakeholders and Requirements](https://github.com/SENG350/course/blob/master/lectures/4-req.md). | | text chapter 16  | 
+| 5 | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md), [C&C](https://github.com/SENG350/course/blob/master/lectures/6-cc.md) , Allocation  | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 18 | 
+| 6|  [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) | || 
+| 7  | [Architecture analysis](https://github.com/SENG350/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
+| 8 |   [Technical Debt and Metrics](https://github.com/SENG350/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | 
+| 8 |   [Microservice Styles]() | | | 
+| 9 |   [Serverless Styles]() | | | 
+| 10 |   [Distributed/Concurrent Styles]() | | | 
+| 11 |   [Functional Styles]() | | | 
+| 12 |   [Event-Driven Architectures]() | | | 
+| | Doc Exercise in class | | |
+
+### Key Dates
+| Event | Deadline |
+|-----|-----|
+| Project: M0 | September 13 |
+| Project: M1 | September 25 | 
+| Project: M2 | Oct 4 |
+|  Thanksgiving Day | **Oct 14** |
+| Project M3| Oct 25 |
+| Reading Break | Nov 11-13 (no class) |
+|  Midterm  | **Nov 8** |
+| Project M3.5 | Nov 15 |
+| Project M4/5 demos and code reviews | Dec 2-5 |
+| Last class | Dec 4 | 
+| Project: M6 | Dec 11 |
+| Project **M6 and M7 due in repo** | Dec 9|
+|  **Grad assignment due** | Dec 13 |
 
 # Syllabus
 Software is a long-lived and complex thing. This course is about understanding software in the large. We use the SEI text as a framework for understanding large-scale software systems. Topics include

@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 12 -- Architecture Analysis
 Author: Neil Ernst
-Date: Mar 15, 2018
 ---
 
 # Why

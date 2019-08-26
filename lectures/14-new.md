@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 14 -- New and Emerging Concepts in Software Systems
 Author: Neil Ernst
-Date: Mar 26, 2018
 ---
 
 I wanted to spend our last lecture talking about some new and emerging concepts in how we build and understand software.
@@ -12,7 +11,7 @@ Let me recap by summarizing what I think are the takeways from this course.
 	- > “Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ...[Therefore,] making it easy to read makes it easier to write.” - Martin, Clean Code
 	
 	- Singer et al. recorded developers spending < 25% of their time making source edits.
-2. Reading code is made easier by appropriate documentation. Our guest speaker gave an interesting example of a high-impact system based on sFTP and XML documents where the original developer spent a lot of effort capturing the business logic in ASCII comments and diagrams, much to his team's amusement. However, that effort saved thousands of dollars when it was time to port the system to a new sFTP service.
+2. Reading code is made easier by appropriate documentation. A guest speaker once gave an interesting example of a high-impact system based on sFTP and XML documents where the original developer spent a lot of effort capturing the business logic in ASCII comments and diagrams, much to his team's amusement. However, that effort saved thousands of dollars when it was time to port the system to a new sFTP service.
 3. "Appropriate" is hard to define, but we suggested it wasn't too hard to figure out. Do some rough "Fermi" approximations of how complex/long-lived/difficult to fix something is, and spend that much effort documenting it. Balance the return with the cost. 
 4. Remember our 7 principles of effective documentation:
 	1. Write for the reader
@@ -44,7 +43,7 @@ The basic idea is that organizational structure is recapitulated in the software
 
 If you have these business service teams, you get to focus on each team owning its own service (micro), and not have big integration worries. 
 
-![monolithtous](img/decentralised-data.png)
+![monoliths](img/decentralised-data.png)
 
 We need to be careful. Making an organization into one organized around microservices is a pretty radical change, particularly for large companies or government entities. There's a danger that we try to move to microservices and end up stuck between what we had before - the monolithic entity that released in step - and microservices. Simon Brown has called this the "distributed big ball of mud". Now we get the worst of both worlds: duplication and organizational complexity, with all the tight coupling of the monolith. 
 
@@ -106,3 +105,5 @@ This is a very exciting time to work on software.
 * Event-driven systems
 * Evolutionary architectures
 
+## Panel
+Five students with previous experience will discuss their work with software architecture. 
