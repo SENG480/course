@@ -170,7 +170,7 @@ See [the syllabus](https://github.com/SENG480/course/blob/master/README.md).
 - plausibility of the design debt you identified
 - 2% project bonus for using SonarQube and pointing me to a Sonarqube instance
 
-## 6. Final Presentation and Report  (10%)
+## 6. Final Presentation and Report  (5%)
 In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references). Not everyone needs to present, but everyone needs to work on the milestone.
 
 ### Presentation Schedule
@@ -212,7 +212,7 @@ Presentation must be attended by all group members, all of whom may be asked que
 * Report has all necessary sections.
 * Report has fixed comments from previous submissions.
 
-## 7. Pull Request (15%)
+## 7. Pull Request (20%)
 
 ### Deadline
 See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
