@@ -4,7 +4,7 @@ Subtitle: CRN 2366{2,3,4} - SENG 480A/CSC485A/CSC578A - A01
 Author: Neil Ernst
 ---
 
-# Schedule and Topics - Spring 2019
+# Schedule and Topics - Fall 2019
 The following schedule is subject to change. All deadlines and due dates listed here are the official dates. 
 
 This semester I'm doing the schedule differently. Instead of detailed day by day schedules, I'll list the main modules, the slides, and then key dates. Modules are sequential, and I aim to do one module per week. If you miss a class, I assume you can figure out what you missed. If not, see your classmates. 
@@ -28,7 +28,7 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | 10 |   [Distributed/Concurrent Styles]() | | | 
 | 11 |   [Functional Styles]() | | | 
 | 12 |   [Event-Driven Architectures]() | | | 
-| | Doc Exercise in class | | |
+
 
 ### Key Dates
 | Event | Deadline |
@@ -41,6 +41,7 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | Reading Break | Nov 11-13 (no class) |
 |  Midterm  | **Nov 8** |
 | Project M3.5 | Nov 15 |
+| Doc Exercise in class | ? |
 | Project M4/5 demos and code reviews | Dec 2-5 |
 | Last class | Dec 4 | 
 | Project: M6 | Dec 11 |
