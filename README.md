@@ -15,13 +15,13 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 
 | Module | Topics | Other Resources | Readings  | 
 |---| --------------------------------------------------------- | --------- | ----------------|
-| 1 |   [What is Software Architecture?](https://github.com/SENG350/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
-| 2 |  [Software arch overview](https://github.com/SENG350/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/)| 
+| 1 |   [What is Software Architecture?](https://github.com/SENG480/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
+| 2 |  [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/)| 
 | 3 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
-| 4 |  [Architecture Stakeholders and Requirements](https://github.com/SENG350/course/blob/master/lectures/4-req.md). | | text chapter 16  | 
+| 4 |  [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). | | text chapter 16  | 
 | 5 | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md), [C&C](https://github.com/SENG350/course/blob/master/lectures/6-cc.md) , Allocation  | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 18 | 
 | 6|  [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) | || 
-| 7  | [Architecture analysis](https://github.com/SENG350/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
+| 7  | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
 | 8 |   [Technical Debt and Metrics](https://github.com/SENG350/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | 
 | 8 |   [Microservice Styles]() | | | 
 | 9 |   [Serverless Styles]() | | | 
