@@ -16,7 +16,7 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | Module | Topics | Other Resources | Readings  | 
 |---| --------------------------------------------------------- | --------- | ----------------|
 | 1 |   [What is Software Architecture?](https://github.com/SENG480/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
-| 2 |  [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/)| 
+| 2 |  [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/); [Gregor Hohpe's architect roles](https://twitter.com/ghohpe/status/1171379436739944449?s=20)| 
 | 3 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
 | 4 |  [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). | | text chapter 16  | 
 | 5 | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md), [C&C](https://github.com/SENG350/course/blob/master/lectures/6-cc.md) , Allocation  | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 18 | 
