@@ -2,7 +2,7 @@
 Title: Undergraduate Assignment handout
 Author: Neil Ernst
 ---
-Due: **Oct 25 11:59pm** as a Github commit. We mark the last commit unless told otherwise.
+Due: as specified on the syllabus, README.md, by 11:59pm as a Github commit. We mark the last commit unless told otherwise.
 
 Note:
 
