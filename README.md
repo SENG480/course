@@ -1,6 +1,6 @@
 ---
 Title:  Documenting and Understanding Software Systems
-Subtitle: CRN 2366{2,3,4} - SENG 480A/CSC485A/CSC578A - A01
+Subtitle: SENG 480A/CSC485A/CSC578A
 Author: Neil Ernst
 ---
 
@@ -38,10 +38,11 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | Project: M2 | Oct 4 |
 |  Thanksgiving Day | **Oct 14** |
 | Project M3| Oct 25 |
+| Undergrad Assign/Grad topic| Oct 25 |
 | Reading Break | Nov 11-13 (no class) |
 |  Midterm  | **Nov 8** |
 | Project M3.5 | Nov 15 |
-| Doc Exercise in class | ? |
+| Doc Exercise in class | Nov 22 |
 | Project M4/5 demos and code reviews | Dec 2-5 |
 | Last class | Dec 4 | 
 | Project: M6 | Dec 11 |
