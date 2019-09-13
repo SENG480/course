@@ -1,7 +1,7 @@
 | Project                                                                    | Year |
 | -------------------------------------------------------------------------- | ---- |
 | Bokeh | 	2019 |  | 
-| HomeAssistant	2019 |  | 
+| HomeAssistant |	2019   | 
 | IPython	 | 2019 |  | 
 | JSettlers | 	2019 |  | 
 | Mailpile | 	2019 |  | 
