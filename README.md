@@ -80,8 +80,9 @@ SEI Software Architecture in Practice, Len Bass, Paul Clements, Rick Kazman. 3rd
 ## Past versions:
 
 * last semesters of this course (see tag Spring18,Spring19)
+* this course's pubs: https://uvicdsa.gitbook.io/uvicdsa19/ and https://uvicdsa.gitbook.io/uvicdsa18/
 * DelftSWA: https://delftswa2018.github.io/assignment/
-* past deliverables, similar in form to what this course will produce,  from the TU Delft IN4315 course, are available at https://delftswa.github.io and https://www.gitbook.com/@delftswa. These are both modeled on the AOSA book -- http://aosabook.org
+* past deliverables, similar in form to what this course will produce,  from the TU Delft IN4315 course, are available at https://delftswa.github.io and https://legacy.gitbook.com/@delftswa. These are both modeled on the AOSA book -- http://aosabook.org
 
 ## Instructors
 
