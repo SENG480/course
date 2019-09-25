@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 4 - Stakeholders and Requirements
 Author: Neil Ernst
-Date: Jan 13, 2018
 ---
 
 # Stakeholders
