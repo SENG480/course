@@ -130,11 +130,9 @@ For some project on Github, pick a quality attribute, create a (fully developed)
 Details are in [assn1.md](assn1.md).
 
 ## Assignment Grad
-Value: **15%**. Due end of term, as shown above.
+Value: **15%**. Due in class, and at end of term, as shown above.
 
-Details are in [assn2.md](assn2.md).
-
-
+Details are in [grad_assn.md](grad_assn.md).
 
 ## Group Project
 The primary deliverable is a group project. You and your team will select a software project (OSS on Github/Bitbucket), and document important views on the software. The end result will be a set of documentation about the software system and a deep understanding of how it is constructed. **50%** of final mark. Students will be assigned to teams and document an open source software system. Due dates in calendar above. See [the Project outline](https://github.com/SENG480/course/blob/master/project.md).
