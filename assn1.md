@@ -28,7 +28,7 @@ For one of the projects in the course, pick a quality attribute, create a qualit
 * Practice architecture analysis and refactoring.
 
 # Requirements
-1. Choose a [Project](https://github.com/SENG480-18/course/wiki/Project-Group-Mapping) (not your own)
+1. Choose a [Project](https://github.com/SENG480/course/wiki/2019-Fall-Group-Mapping) (not your own)
 2. For that project, pick one of the following quality attributes, and create a simple scenario for it. I have provided some detail, but you should make it clear who creates the stimulus, what the response and response measure could be. In some cases (e.g. time to deploy) you will not be able to find the *actual* values, so make a reasonable guess (2 days is likely too slow; 10 minutes is too quick).
 	  1. **Maintainability** - Time required to deploy to production. This requires examining the project's DevOps and CI infrastructure.
 	  2. **Performance** - Latency. This requires understanding the project's performance goals, picking a good latency measure, and showing how the code supports that.
