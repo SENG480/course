@@ -76,7 +76,7 @@ A lightweight ATAM that does not insist on *all* stakeholders being present. Dow
 ---
 # Exercise
 
-Take your M3/M4 documents as evidence of the system's architecture. For one of your QAS, generate 1 possible *risk* that this system is facing, and identify 1 sensitivity point.
+Use the documentation prepared for [Homebrew](https://app.gitbook.com/@uvicdsa/s/uvicdsa18/chapter-6).  For one of their QAS, generate 1 possible *risk* that this system is facing, and identify 1 sensitivity point.
 
 
 # References
