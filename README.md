@@ -41,11 +41,11 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | Undergrad Assign/Grad topic| Oct 25 |
 | Reading Break | Nov 11-13 (no class) |
 |  Midterm  | **Nov 8** |
-| Project M3.5 | Nov 15 |
+| Project M4 | Nov 15 |
 | Doc Exercise in class | Nov 22 |
-| Project M4/5 demos and code reviews | Dec 2-5 |
+| Project M5  | Nov 22 |
+| Project summaries in class | week of Dec 2 |
 | Last class | Dec 4 | 
-| Project: M6 | Dec 11 |
 | Project **M6 and M7 due in repo** | Dec 9|
 |  **Grad assignment due** | Dec 13 |
 
