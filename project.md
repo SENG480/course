@@ -99,7 +99,7 @@ A [module view](https://github.com/SENG480-18/course/blob/master/lectures/5-modu
 
 The purpose of this document is to support analysis of some of the key quality attributes you identified in Milestone 2. The reader will be someone who is not very familiar with the code or project, so be sure to explain it to an interested outsider (e.g. someone who just joined the dev team).
 
-Your deliverable should be laid out and contain material very similar to [this one from the SEI](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View).
+Your deliverable should be laid out and contain material very similar to [this one from the SEI](https://wiki.sei.cmu.edu/confluence/display/SAD/OPC+Module+Uses+View).
 
 ### Suggested Steps
 
