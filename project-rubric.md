@@ -97,7 +97,6 @@ Potential deductions:
 - Report meets tech writing criteria. 
 - Connection of analysis to other aspects of the project, if any.
 - Technical debt is plausible and not merely the simplest rule violation.
-- 2% project bonus for using SonarQube and pointing me to a Sonarqube instance
 
 ## Notes M5
 
