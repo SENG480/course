@@ -41,9 +41,9 @@ Multiple actors may interact through an interface at the same time. Some interfa
 1. **Interface identity**---some obvious name. This is not easy; it is as hard as naming a method or an object. It should be memorable and perspicuous. 
 2. **Resources provided**:
 
-	a. Syntax: this is like a method signature. We can also use standards designed specifically for this, such as Interface Defn Languages (IDL) or Web Service Defn Languages (WSDL). Where would JSON or YAML or Protobuffers fit?
-	b. Semantics: effects of using the resource. Usage restrictions; pre/post conditions; values assigned; whether the resource changes or not (idempotence); new properties observed after the interface is used. We can use natural language, behavior diagrams, or formal languages (e.g. timing diagrams). As usual, there are tradeoffs of precision and cost. How important is it that you know what units you are getting trajectory fixes in?
-	c. Error handling: what happens when something goes wrong. E.g., does the resource revert back (rollback) to its initial state.
+	a. *Syntax*: this is like a method signature. We can also use standards designed specifically for this, such as Interface Defn Languages (IDL) or Web Service Defn Languages (WSDL). Where would JSON or YAML or Protobuffers fit?
+	b.*Semantics:* effects of using the resource. Usage restrictions; pre/post conditions; values assigned; whether the resource changes or not (idempotence); new properties observed after the interface is used. We can use natural language, behavior diagrams, or formal languages (e.g. timing diagrams). As usual, there are tradeoffs of precision and cost. How important is it that you know what units you are getting trajectory fixes in?
+	c. *Error handling*: what happens when something goes wrong. E.g., does the resource revert back (rollback) to its initial state.
 3. **Data types**: what do we mean when we say "String"? What is a "Customer"?
 4. **Error handling** (overall)
 5. **Variability**: how the interface may change, e.g., if peak load restrictions are exceeded.
@@ -68,7 +68,7 @@ Amazon [famously forced all](https://apievangelist.com/2012/01/12/the-secret-to-
 
 Documenting an API then is different inasmuch as the audience is different. You can not make assumptions about your audience and basic terminology. Good examples of API documentation can be found at Twitter or at [Github](https://developer.github.com/v3/). If you look carefully, you will see the same structure as we discussed earlier. 
 
-API docs have taken much more attention lately, at least in the HackerNews world. I would argue however, that the MCO example shows us that our "internal" interfaces are at least as important. In both cases, though, it seems clear that our course focus on clarity and relevance to the business remain paramount.
+API docs have taken much more attention lately. I would argue however, that the MCO example shows us that our "internal" interfaces are at least as important. In both cases, though, it seems clear that our course focus on clarity and relevance to the business remain paramount.
 
 # Capturing Interfaces in Docs
 Our primary presentation should show what interfaces we are using explicitly. Then, in the Interface portion of the Element guide, we elaborate on what that interface is all about. In systems like ["Read The Docs"](http://bootstrap-datepicker.readthedocs.io/en/v1.7.1/methods.html), interface documentation takes on a much more visible role, since external clients often just need to know this (and less about the system architecture). 
