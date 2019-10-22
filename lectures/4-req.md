@@ -1,7 +1,6 @@
 ---
 Title: SENG480a/CSC485b/CSC578b---Lecture 4 - Stakeholders and Requirements
 Author: Neil Ernst
-Date: Jan 13, 2018
 ---
 
 # Stakeholders
@@ -90,15 +89,15 @@ Ideally, we would get a long presentation from a knowledgeable business person f
 
 We are going to walk through a quick utility tree exercise. 
 
-As I briefly state the business case, write down things you feel are important about this system wrt architecture.
+
+I went over the business and architecture approaches for the [Twitter observability platform](https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-i.html)
 
 ## Business Presentation
-Twitter is a company that sells advertising from third-parties to people who consume the ads as part of a social network. The network functions include the ability to view other people's tweets, post tweets, and store favorites. Recently, a wave of automated bots has hijacked the service to attack democratic institutions. A new architecture is going to make it easier for users to flag annoying bots, use ML to find potential bots, and coordinate with a new media campaign to highlight the new approach.
+As I briefly state the business case, write down things you feel are important about this system wrt architecture.
+
 
 ## Architecture Presentation
 As I sketch the architecture approach, write down the key business goals and quality attributes you hear being mentioned (perhaps implicitly; remember the project will not necessarily use the same jargon).
-
-I sketched out a brief runtime architecture diagram.
 
 ## Architecture Drivers
 In your group, compare notes on the last two presentations and identify the key architecture drivers you think this new system has.

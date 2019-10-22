@@ -1,6 +1,6 @@
 ---
 Title:  Documenting and Understanding Software Systems
-Subtitle: CRN 2366{2,3,4} - SENG 480A/CSC485A/CSC578A - A01
+Subtitle: SENG 480A/CSC485A/CSC578A
 Author: Neil Ernst
 ---
 
@@ -15,13 +15,13 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 
 | Module | Topics | Other Resources | Readings  | 
 |---| --------------------------------------------------------- | --------- | ----------------|
-| 1 |   [What is Software Architecture?](https://github.com/SENG350/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
-| 2 |  [Software arch overview](https://github.com/SENG350/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/)| 
-| 3 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) | | 
-| 4 |  [Architecture Stakeholders and Requirements](https://github.com/SENG350/course/blob/master/lectures/4-req.md). | | text chapter 16  | 
+| 1 |   [What is Software Architecture?](https://github.com/SENG480/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
+| 2 |  [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/); [Gregor Hohpe's architect roles](https://twitter.com/ghohpe/status/1171379436739944449?s=20)| 
+| 3 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) • [FB's Getafix](https://engineering.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/) • [Petronella Tweet](https://twitter.com/gabro27/status/1173547934132178944) • [HackerNews on Arch](https://news.ycombinator.com/item?id=21001676) | | 
+| 4 |  [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). | | text chapter 16  | 
 | 5 | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md), [C&C](https://github.com/SENG350/course/blob/master/lectures/6-cc.md) , Allocation  | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 18 | 
 | 6|  [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) | || 
-| 7  | [Architecture analysis](https://github.com/SENG350/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
+| 7  | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
 | 8 |   [Technical Debt and Metrics](https://github.com/SENG350/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | 
 | 8 |   [Microservice Styles]() | | | 
 | 9 |   [Serverless Styles]() | | | 
@@ -38,13 +38,14 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | Project: M2 | Oct 4 |
 |  Thanksgiving Day | **Oct 14** |
 | Project M3| Oct 25 |
+| Undergrad Assign/Grad topic| Oct 25 |
 | Reading Break | Nov 11-13 (no class) |
 |  Midterm  | **Nov 8** |
-| Project M3.5 | Nov 15 |
-| Doc Exercise in class | ? |
-| Project M4/5 demos and code reviews | Dec 2-5 |
+| Project M4 | Nov 15 |
+| Doc Exercise in class | Nov 22 |
+| Project M5  | Nov 22 |
+| Project summaries in class | week of Dec 2 |
 | Last class | Dec 4 | 
-| Project: M6 | Dec 11 |
 | Project **M6 and M7 due in repo** | Dec 9|
 |  **Grad assignment due** | Dec 13 |
 
@@ -79,12 +80,13 @@ SEI Software Architecture in Practice, Len Bass, Paul Clements, Rick Kazman. 3rd
 ## Past versions:
 
 * last semesters of this course (see tag Spring18,Spring19)
+* this course's pubs: https://uvicdsa.gitbook.io/uvicdsa19/ and https://uvicdsa.gitbook.io/uvicdsa18/
 * DelftSWA: https://delftswa2018.github.io/assignment/
-* past deliverables, similar in form to what this course will produce,  from the TU Delft IN4315 course, are available at https://delftswa.github.io and https://www.gitbook.com/@delftswa. These are both modeled on the AOSA book -- http://aosabook.org
+* past deliverables, similar in form to what this course will produce,  from the TU Delft IN4315 course, are available at https://delftswa.github.io and https://legacy.gitbook.com/@delftswa. These are both modeled on the AOSA book -- http://aosabook.org
 
 ## Instructors
 
-* [Neil Ernst](http://neilernst.net), instructor. Office ECS 560, office hours after class Thursday or DM me.
+* [Neil Ernst](http://neilernst.net), instructor. Office ECS 560,  office hours Wed 11:30-12:30 & 2:30-3:30, or by appt.
 * Omar Elazhary, teaching assistant
 
 # Course Overview
@@ -128,11 +130,9 @@ For some project on Github, pick a quality attribute, create a (fully developed)
 Details are in [assn1.md](assn1.md).
 
 ## Assignment Grad
-Value: **15%**. Due end of term, as shown above.
+Value: **15%**. Due in class, and at end of term, as shown above.
 
-Details are in [assn2.md](assn2.md).
-
-
+Details are in [grad_assn.md](grad_assn.md).
 
 ## Group Project
 The primary deliverable is a group project. You and your team will select a software project (OSS on Github/Bitbucket), and document important views on the software. The end result will be a set of documentation about the software system and a deep understanding of how it is constructed. **50%** of final mark. Students will be assigned to teams and document an open source software system. Due dates in calendar above. See [the Project outline](https://github.com/SENG480/course/blob/master/project.md).

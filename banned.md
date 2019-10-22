@@ -1,5 +1,16 @@
 | Project                                                                    | Year |
 | -------------------------------------------------------------------------- | ---- |
+| Bokeh | 	2019 |  | 
+| HomeAssistant |	2019   | 
+| IPython	 | 2019 |  | 
+| JSettlers | 	2019 |  | 
+| Mailpile | 	2019 |  | 
+| Pillow	 | 2019 |  | 
+| Quake3 | 	2019 |  | 
+| Ray	 | 2019 |  | 
+| Spyder | 	2019 |  | 
+| Teammaters | 	2019 |  | 
+| Terraform |	2019 |
 | [akka](https://github.com/akka/akka)                                       | 2018 |
 | [angular](https://github.com/angular/angular)                              | 2018 |
 | [AngularDart](https://github.com/dart-lang/angular)                        | 2015 |
