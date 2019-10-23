@@ -7,7 +7,7 @@ Author: Neil Ernst
 # Schedule and Topics - Fall 2019
 The following schedule is subject to change. All deadlines and due dates listed here are the official dates. 
 
-See also ![tentatve sched](tent-sched.png)
+See also [tentative schedule](tent-sched.png)
 
 This semester I'm doing the schedule differently. Instead of detailed day by day schedules, I'll list the main modules, the slides, and then key dates. Modules are sequential, and I aim to do one module per week. If you miss a class, I assume you can figure out what you missed. If not, see your classmates. 
 
