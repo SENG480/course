@@ -7,35 +7,37 @@ Author: Neil Ernst
 # Schedule and Topics - Fall 2019
 The following schedule is subject to change. All deadlines and due dates listed here are the official dates. 
 
+See also ![tentatve sched](tent-sched.png)
+
 This semester I'm doing the schedule differently. Instead of detailed day by day schedules, I'll list the main modules, the slides, and then key dates. Modules are sequential, and I aim to do one module per week. If you miss a class, I assume you can figure out what you missed. If not, see your classmates. 
 
 Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 
 ### Modules
 
-| Module | Topics | Other Resources | Readings  | 
-|---| --------------------------------------------------------- | --------- | ----------------|
-| 1 |   [What is Software Architecture?](https://github.com/SENG480/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
-| 2 |  [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/); [Gregor Hohpe's architect roles](https://twitter.com/ghohpe/status/1171379436739944449?s=20)| 
-| 3 | [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) • [FB's Getafix](https://engineering.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/) • [Petronella Tweet](https://twitter.com/gabro27/status/1173547934132178944) • [HackerNews on Arch](https://news.ycombinator.com/item?id=21001676) | | 
-| 4 |  [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). | | text chapter 16  | 
-| 5 | [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md), [C&C](https://github.com/SENG350/course/blob/master/lectures/6-cc.md) , Allocation  | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 18 | 
-| 6|  [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) | || 
-| 7  | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
-| 8 |   [Technical Debt and Metrics](https://github.com/SENG350/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) | 
-| | [Interface Documentation](lectures/9-interfaces.md) | | 
-| 8 |   [Microservice Styles]() | | | 
-| 9 |   [Serverless Styles]() | | | 
-| 10 |   [Distributed/Concurrent Styles]() | | | 
-| 11 |   [Functional Styles]() | | | 
-| 12 |   [Event-Driven Architectures]() | | | 
+| Topic | Other Resources | Readings  |
+| --------------------------------------------------------- | --------- | ----------------|
+|   [What is Software Architecture?](https://github.com/SENG480/course/blob/master/lectures/1-intro.md) | | text chapter 1  |
+|  [Software arch overview](https://github.com/SENG480/course/blob/master/lectures/2-arch.md) | | text chapter 2 ; [Architect Roles Map](https://eltjopoort.nl/blog/2019/06/25/a-map-to-waterfall-wasteland-and-the-agile-outback/); [Gregor Hohpe's architect roles](https://twitter.com/ghohpe/status/1171379436739944449?s=20)|
+| [Reading Code.](https://github.com/SENG480/course/blob/master/lectures/3-reading.md) | | chapter 3 text, source code of [web crawler]( https://github.com/aosabook/500lines/tree/master/crawler/code) • [FB's Getafix](https://engineering.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/) • [Petronella Tweet](https://twitter.com/gabro27/status/1173547934132178944) • [HackerNews on Arch](https://news.ycombinator.com/item?id=21001676) |
+|  [Architecture Stakeholders and Requirements](https://github.com/SENG480/course/blob/master/lectures/4-req.md). | | text chapter 16  |
+| [Views on Architecture - Modules](https://github.com/SENG480/course/blob/master/lectures/5-modules.md), [C&C](https://github.com/SENG350/course/blob/master/lectures/6-cc.md) , Allocation  | [SEI view example](https://wiki.sei.cmu.edu/sad/index.php/OPC_Module_Uses_View) | text chapter 18 |
+|  [Documenting behavior](https://github.com/SENG480/course/blob/master/lectures/8-behavior.md)  | | [SEI behavior tech report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5847) |
+| [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
+|   [Technical Debt and Metrics](https://github.com/SENG350/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) |
+| [Interface Documentation](lectures/9-interfaces.md) | ||
+|   [Microservice Styles]() | | |
+|   [Serverless Styles]() | | |
+|   [Distributed/Concurrent Styles]() | | |
+|   [Functional Styles]() | | |
+|   [Event-Driven Architectures]() | | |
 
 
 ### Key Dates
 | Event | Deadline |
 |-----|-----|
 | Project: M0 | September 13 |
-| Project: M1 | September 25 | 
+| Project: M1 | September 25 |
 | Project: M2 | Oct 4 |
 |  Thanksgiving Day | **Oct 14** |
 | Project M3| Oct 25 |
@@ -46,7 +48,7 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | Doc Exercise in class | Nov 22 |
 | Project M5  | Nov 22 |
 | Project summaries in class | week of Dec 2 |
-| Last class | Dec 4 | 
+| Last class | Dec 4 |
 | Project **M6 and M7 due in repo** | Dec 9|
 |  **Grad assignment due** | Dec 13 |
 
