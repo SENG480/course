@@ -26,6 +26,7 @@ Lectures are **T,W,Fr 10:30am-11:30am** in ECS 124.
 | [Architecture analysis](https://github.com/SENG480/course/blob/master/lectures/12-analysis.md) | | text chapter 21  |
 |   [Technical Debt and Metrics](https://github.com/SENG350/course/blob/master/lectures/10-td.md) | | my [Field Study of TD](https://insights.sei.cmu.edu/sei_blog/2015/07/a-field-study-of-technical-debt.html) • [metrics and TD](https://almossawi.com/firefox/prose-part-two/) |
 | [Interface Documentation](lectures/9-interfaces.md) | ||
+| [Reviewing Docs](lectures/11-review.md) | | [Guidelines for Doc Reviews](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9045) | 
 |   [Microservice Styles]() | | |
 |   [Serverless Styles]() | | |
 |   [Distributed/Concurrent Styles]() | | |
