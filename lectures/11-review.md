@@ -107,7 +107,7 @@ We need to review what we created to ensure it can do all of this. We aren't rev
 6. Analyze and summarize the results. The end result is a decision as to whether or not the document will help fulfil the purpose.
 
 ## Example questions
-You can find more questions in the [SEI reading](readings/review_docs_sei.pdf). For evaluating an architecture:
+You can find more questions in the [SEI reading](../readings/review_docs_sei.pdf). For evaluating an architecture:
 
 | Question                                                     | Respondent     | Expected                                                 | Criticality                   |
 | ------------------------------------------------------------ | -------------- | -------------------------------------------------------- | ----------------------------- |
