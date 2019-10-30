@@ -118,10 +118,17 @@ You can find more questions in the [SEI reading](readings/review_docs_sei.pdf). 
 
 ### Exercise: Supporting Evaluation
 
-We will look at two architecture documents and try to assess their suitability for purpose. Grab the doc I assigned you:
+We will look at two architecture documents and try to assess their suitability for purpose. 
 
-1. ESD: [Moodle](http://aosabook.org/en/moodle.html)
-2. Rozanski and Woods: [Docker](https://delftswa.github.io/chapters/docker/)
+Learning objectives: 
+* read about more software architectures
+* assess documentation suitability 
+* map between goals and design choices
+
+Grab the doc I assigned you:
+
+1. ESD: [Moodle](http://aosabook.org/en/moodle.html) (Groups 1-5)
+2. Rozanski and Woods: [Docker](https://delftswa.github.io/chapters/docker/) (Groups 6-9)
 
 Help understand whether or not this document helps us evaluate the architecture for its quality requirements.
 
@@ -134,5 +141,6 @@ Help understand whether or not this document helps us evaluate the architecture 
    4. Is it clear which view supports which ASR?
    5. Is the context clear?
    6. Is there enough preliminary information to assess QAS conformance?
-3. Now, answer yes/no to the above questions.
-4. Finally, capture your overall impression of the document as suited (or not) for an architecture review board presentation.
+3. Now, answer yes/no to the above questions. Capture this on paper or in a text file.
+4. Finally, capture your group's overall impression of the document as suited (or not) for an architecture review board presentation.
+5. Email me or hand in the document. 
