@@ -14,15 +14,20 @@ This will usually involve a couple of module views and runtime C&C views. Let's 
 ## Stakeholder table
 A stakeholder table uses rows for the stakeholders of our system, and columns for the styles we might capture about our system. We enter either D(etailed), S(ome), or O(verview) to show the degree of interest each stakeholder group has in a particular view. Then, we can combine the views to prioritize the information our stakeholders need. 
 
-Let's take a look at a view table for Keras. 
+Let's take a look at a view table for a space satellite ground station.
 
-The stakeholders are: 
+![ECS View table](img/ecs-stakeholdertable.png) 
 
-The key views are:
+We want to ensure we cover the important needs, but also don't over commit to the documentation. Thus, in this case the decision to *combine* views:
 
-These views apply to all systems:
+* A C&C view showing peer-to-peer and shared data
+* A module view showing decomposition, uses, and layering
+* Separate views for deployment and work assignment for contractors
+
+Selecting views is an important aspect of documentation. Some views apply globally:
 
 **Module views**
+
 * Decomposition
 * Uses
 * Data Model
@@ -50,16 +55,25 @@ These views apply to some systems:
 Once we have our view table, and our combined views, we can *stage* the docs in order to address the most pressing needs first. For example, if we are building a new system and need to let a contract, we might construct the work assignment view and module views showing the high level structures of the system. Detailed views for communicating processes could be left until those parts of the system are being built. 
 
 # Representation formats
-In this course we have gone for my favorite (currently!) approach to documentation, a hybrid of hypertext and plain text using Markdown. The benefit is that it is pretty easy, once you have some primitive structure, to convert to other formats and more sophisticated presentation. The downside is that few people seem to understand what plain text is. 
+In this course we have gone for my favorite (currently!) approach to documentation, a hybrid of hypertext and plain text using Markdown stored in source control. The benefit is that it is pretty easy, once you have some primitive structure, to convert to other formats and more sophisticated presentation. It is also version-controlled and stored close to the code. The downside is that few people seem to understand what plain text is. 
 
 One approach is to make your docs auto-generated from code, an "architecturally-evident coding style" as George Fairbanks calls it. This means you add detail in Javadoc or doc strings to hint at the architectural role. 
 
 Another approach is to follow [Simon Brown's "C4" diagrams](https://c4model.com) and method: begin with Context, Containers, and Components, end with Code.
 
-<!-- 
-Enterprise Architect
-JetUML
- -->
+Other approaches: 
+
+- ReadTheDocs and Sphinx/JavaDoc
+- Swagger and automating API call documentation
+- Wikis like confluence
+- "Books"
+- How-tos and tutorials.
+
+It's important as well to keep in mind what level the stakeholders are at with respect to knowledge of both the general concepts (e.g., do they know Java? HTTP/REST?) and the specific context of this system. 
+
+Greg Wilson at RStudio has a [nice model](http://third-bit.com/2019/08/08/documentation-types.html) for how different documentation approaches fit:
+
+![Doc Types](http://third-bit.com/files/2019/08/doctypes.svg)
 
 # Packaging documentation
 
@@ -67,7 +81,7 @@ We've talked a lot about specific views. But we've only had time to do 2, and as
 
 Here's a template for "beyond views" documentation, the stuff we don't get in any one view.  Use this structure to guide your M6 work.
 
-![](img/beyond-views.png)
+![Beyond Views](img/beyond-views.png)
 
 1. Roadmap: a table of contents, at the least, but most useful when it explains where to find everything.
 2. Template: just the one we used for each view. Boilerplate.
@@ -93,14 +107,32 @@ We need to review what we created to ensure it can do all of this. We aren't rev
 6. Analyze and summarize the results. The end result is a decision as to whether or not the document will help fulfil the purpose.
 
 ## Example questions
-You can find more questions in the reading I linked to.
+You can find more questions in the [SEI reading](readings/review_docs_sei.pdf). For evaluating an architecture:
 
-### Supporting Evaluation
-Help understand whether or not this document helps us evaluate the architecture.
+| Question                                                     | Respondent     | Expected                                                 | Criticality                   |
+| ------------------------------------------------------------ | -------------- | -------------------------------------------------------- | ----------------------------- |
+| Are the business goals the system must satisfy clearly articulated and prioritized? | Business owner | Show how to move from bus. goal to architecture artifact | Ambiguity? Missing artifacts? |
+| Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? | Architect      | Show technical decisions and map to ASRs                 |                               |
+| Have you identified the key decisions?                       | Architect      | as above                                                 |                               |
+| Have you captured the rationale for your key decisions?      | Architect      | as above                                                 |                               |
 
-1. Are the business goals clear? 
-2. Can we trace from business goals to architectural elements?
-3. Are the ASRs clear and testable?
-4. Is it clear which view supports which ASR?
-5. Is the context clear?
-6. Is there enough preliminary information to assess QAS conformance?
+### Exercise: Supporting Evaluation
+
+We will look at two architecture documents and try to assess their suitability for purpose. Grab the doc I assigned you:
+
+1. ESD: [Moodle](http://aosabook.org/en/moodle.html)
+2. Rozanski and Woods: [Docker](https://delftswa.github.io/chapters/docker/)
+
+Help understand whether or not this document helps us evaluate the architecture for its quality requirements.
+
+1. First, read the document together. 
+
+2. Build a question set based on the documentation stakeholders (which are different than the system stakeholders). 
+   1. Are the business goals clear? 
+   2. Can we trace from business goals to architectural elements?
+   3. Are the ASRs clear and testable?
+   4. Is it clear which view supports which ASR?
+   5. Is the context clear?
+   6. Is there enough preliminary information to assess QAS conformance?
+3. Now, answer yes/no to the above questions.
+4. Finally, capture your overall impression of the document as suited (or not) for an architecture review board presentation.
