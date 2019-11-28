@@ -170,21 +170,24 @@ See [the syllabus](https://github.com/SENG480/course/blob/master/README.md).
 - plausibility of the design debt you identified
 
 ## 6. Final Presentation and Report  (5%)
-In class presentation of ~15 minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references). Not everyone needs to present, but everyone needs to work on the milestone.
+In class presentation of **10** minutes; final report polished and cleaned up (e.g. add introduction, conclusions, references). Not everyone needs to present, but everyone needs to work on the milestone.
 
 ### Presentation Schedule
-See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). 
+<!-- See [the syllabus](https://github.com/SENG480/course/blob/master/README.md). -->
+Odd, Tuesday, Even, Wednesday.
 
 ### Presentation Outline
-* Introduction (1-2 minutes)
-	- Business goals, elevator pitch to set context and why its cool
+* Introduction (1 minute)
+	- Business goals, elevator pitch to set context and why it's cool
 * QAS (1-2 minutes)
-	- QA, scenarios, present utility tree here
-* Technical content (7-8 minutes)
+	- List the most important QAS here
+* Technical content (3-4 minutes)
 	- Brief technical overview: explain what language it is written in, key drivers and constraints
-	- Implementation/ module view (M3)
-	- C&C View (M4)
-* Technical Debt and Quality (1-2 minutes)
+	- One of:
+		- Implementation/ module view (M3)
+		- C&C View (M4)
+* Technical Debt and Quality (1 minutes)
+	- give one place where the design seems to be lacking, based on metrics and your analysis.
 * Reflection (1-2 minutes)
 	- Challenges
 	- What worked well
